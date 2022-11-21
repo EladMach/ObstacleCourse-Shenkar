@@ -1104,3 +1104,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.21-20.21.25:703][972]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.11.21-20.21.25:709][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
 [2022.11.21-20.21.25:711][972]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.11.21-20.21.57:794][ 32]LogDerivedDataCache: C:/Users/eladm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.533 and deleted 0 file(s) with total size 0 MiB.
