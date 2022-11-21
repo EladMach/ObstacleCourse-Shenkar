@@ -1105,3 +1105,676 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.21-20.21.25:709][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
 [2022.11.21-20.21.25:711][972]LogEditorActor: Deleted 1 Actors (0.009 secs)
 [2022.11.21-20.21.57:794][ 32]LogDerivedDataCache: C:/Users/eladm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.533 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.21-20.28.00:016][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.21-20.28.01:782][933]LogSlate: Window 'Save Content' being destroyed
+[2022.11.21-20.28.01:980][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.21-20.28.01:985][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.21-20.28.01:989][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.21-20.29.12:754][377]LogAssetRegistry: Display: Package C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/FL_Waterbody/Maps/Communities/CentralFlorida/Waterbody_Map.umap uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.11.21-20.29.12:754][377]LogAssetRegistry: Display: Package C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/FL_Waterbody/Maps/Test_Maps/Brush_Test_Waterbody.umap uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.11.21-20.29.12:757][377]LogAssetRegistry: Display: Package C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/FL_Waterbody/Maps/Test_Maps/Brush_Test_Waterbody.umap uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.11.21-20.29.12:764][378]LogAssetRegistry: Display: Package C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/FL_Waterbody/Maps/Communities/CentralFlorida/Waterbody_Map.umap uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2022.11.21-20.29.15:357][385]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.11.21-20.29.15:357][385]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Developers/eladm/Collections/' because it could not be accessed. Aborting watch request...
+[2022.11.21-20.29.15:690][386]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.11.21-20.30.44:437][320]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Dirt_BaseColor_T.Dirt_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.30.44:437][320]LogMaterial: Display: Missing cached shadermap for LandscapeSiding_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 25A708C024444A414C962AC2C840990776B96A31), compiling. 
+[2022.11.21-20.30.44:821][320]LogStaticMesh: Display: Building static mesh Waterbody_Siding_SM...
+[2022.11.21-20.30.45:017][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM
+[2022.11.21-20.30.45:034][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM
+[2022.11.21-20.30.45:201][320]LogStaticMesh: Built static mesh [0.43s] /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM
+[2022.11.21-20.30.45:201][320]LogActorFactory: Actor Factory spawned StaticMesh /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2022.11.21-20.30.45:245][320]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM) ...
+[2022.11.21-20.30.47:151][504]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x49 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 77% occupied, 139 triangles, Waterbody_Siding_SM
+[2022.11.21-20.30.48:207][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM
+[2022.11.21-20.30.48:207][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM
+[2022.11.21-20.30.48:209][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F280424E74B01_1500390015
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: ================================================
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: Shaders Compiled: 16
+[2022.11.21-20.30.48:315][605]LogShaderCompilers: Display: Jobs assigned 16, completed 1 (6.25%)
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Job execution time: average 3.47 s, max 3.47 s
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Job life time (pending + execution): average 3.52 s, max 3.52
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.52 s
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 2.67 jobs/batch
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Average processing rate: 0.28 jobs/sec
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Effective parallelization: 0.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 100.00% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2022.11.21-20.30.48:325][605]LogShaderCompilers: Display: ================================================
+[2022.11.21-20.30.59:482][803]Cmd: DELETE
+[2022.11.21-20.30.59:482][803]Cmd: ACTOR DELETE
+[2022.11.21-20.30.59:483][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.21-20.30.59:489][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.21-20.30.59:490][803]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.11.21-20.31.39:181][742]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.21-20.31.39:221][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/Base_WindBlock_T.Base_WindBlock_T (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:221][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/Base_Wind_T.Base_Wind_T (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:221][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/BlazingStar_L_BB_Color_T.BlazingStar_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:221][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHolly_BB_Color_T.DahoonHolly_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:221][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/SSS_Blank_T.SSS_Blank_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:221][742]LogMaterial: Display: Missing cached shadermap for 2_BillboardMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0BB90E13E647FF99426A7916ACE7FE3063A8715), compiling. 
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/Set_1_BaseColor_T.Set_1_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/Set_1_Normal_T.Set_1_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHolly_BaseColor_T.DahoonHolly_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHolly_SSS_T.DahoonHolly_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHolly_Normal_T.DahoonHolly_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHollyBark_BaseColor_T.DahoonHollyBark_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHollyBark_Normal_T.DahoonHollyBark_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPineBark_BaseColor_T.LongLeafPineBark_BaseColor_T (TFO_AutoDXT, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:432][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 049C6779523FA35692173EAB2D952B4DDF79D482), compiling. 
+[2022.11.21-20.31.39:548][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPineBark_Normal_T.LongLeafPineBark_Normal_T (TFO_BC5, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.39:549][742]LogMaterial: Display: Missing cached shadermap for 1_BarkMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 614905EA1D8CBE55866741263272909FB5C7DE8F), compiling. 
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh DahoonHolly_L_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh DahoonHolly_Male_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh DahoonHolly_M_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh DahoonHolly_S_SM...
+[2022.11.21-20.31.40:022][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/DahoonHolly/DahoonHollyMale_BaseColor_T.DahoonHollyMale_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/DahoonHolly/DahoonHolly_L_SM.DahoonHolly_L_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh LongLeafPine_1_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/DahoonHolly/DahoonHolly_M_SM.DahoonHolly_M_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/DahoonHolly/DahoonHolly_Male_SM.DahoonHolly_Male_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh LongLeafPine_3_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh LongLeafPine_2_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh LongLeafPine_4_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/DahoonHolly/DahoonHolly_S_SM.DahoonHolly_S_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypressBaby_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.07s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypressBaby_SM.PondCypressBaby_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypressDead_L_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.04s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypressDead_L_SM.PondCypressDead_L_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypressDead_M_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypressDead_M_SM.PondCypressDead_M_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypressDead_S_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypressDead_S_SM.PondCypressDead_S_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypressStump_M_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.20s] /Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_1_SM.LongLeafPine_1_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypressStump_M_SM.PondCypressStump_M_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypressStump_S_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypress_L_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypressStump_S_SM.PondCypressStump_S_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.25s] /Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_4_SM.LongLeafPine_4_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.25s] /Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_2_SM.LongLeafPine_2_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Built static mesh [0.25s] /Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_3_SM.LongLeafPine_3_SM
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypress_M_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh PondCypress_S_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh SabalPalmDead_SM...
+[2022.11.21-20.31.40:022][742]LogStaticMesh: Display: Building static mesh SabalPalm_SM...
+[2022.11.21-20.31.40:022][742]LogMaterial: Display: Missing cached shadermap for 1_ClutterMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CD74F74211D984628409E3F23B852C08AB728448), compiling. 
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/SabalPalm/SabalPalmDead_SM.SabalPalmDead_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SabalPalm_S_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.10s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypress_S_SM.PondCypress_S_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.17s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypress_L_SM.PondCypress_L_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.13s] /Game/FL_Waterbody/Mesh/CentralFlorida/PondCypress/PondCypress_M_SM.PondCypress_M_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/SabalPalm/SabalPalm_S_SM.SabalPalm_S_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.10s] /Game/FL_Waterbody/Mesh/CentralFlorida/SabalPalm/SabalPalm_SM.SabalPalm_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOakBaby_1_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOakBaby_2_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOakBaby_3_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOakXL_1_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOakXL_2_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakBaby_3_SM.SandLiveOakBaby_3_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakBaby_2_SM.SandLiveOakBaby_2_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakBaby_1_SM.SandLiveOakBaby_1_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOak_1_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOak_2_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SandLiveOak_3_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.19s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOak_1_SM.SandLiveOak_1_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SawPalmBaby_1_SM...
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Built static mesh [0.00s] /Game/FL_Waterbody/Mesh/CentralFlorida/SawPalmetto/SawPalmBaby_1_SM.SawPalmBaby_1_SM
+[2022.11.21-20.31.40:410][742]LogStaticMesh: Display: Building static mesh SawPalmBaby_2_SM...
+[2022.11.21-20.31.40:410][742]LogMaterial: Display: Missing cached shadermap for 3_Landscape_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 411C1BAC01CD4ACD3C311F7C7221F526D2168602), compiling. 
+[2022.11.21-20.31.40:523][742]LogStaticMesh: Built static mesh [0.04s] /Game/FL_Waterbody/Mesh/CentralFlorida/SawPalmetto/SawPalmBaby_2_SM.SawPalmBaby_2_SM
+[2022.11.21-20.31.40:523][742]LogStaticMesh: Built static mesh [0.25s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOak_3_SM.SandLiveOak_3_SM
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_10 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_11 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_12 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_13 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogStaticMesh: Display: Building static mesh SawPalmBaby_3_SM...
+[2022.11.21-20.31.40:523][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/SawPalmetto/SawPalmBaby_3_SM.SawPalmBaby_3_SM
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_15 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_16 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_17 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_18 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogStaticMesh: Display: Building static mesh SawPalmDouble_SM...
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_20 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_21 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_22 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:523][742]LogStaticMesh: Display: Building static mesh SawPalmSingle_1_SM...
+[2022.11.21-20.31.40:523][742]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CF41AAD3C5F0D426FE2FEC99A746D05D3AB24388), compiling. 
+[2022.11.21-20.31.40:609][742]LogStaticMesh: Built static mesh [0.10s] /Game/FL_Waterbody/Mesh/CentralFlorida/SawPalmetto/SawPalmDouble_SM.SawPalmDouble_SM
+[2022.11.21-20.31.40:609][742]LogStaticMesh: Built static mesh [0.10s] /Game/FL_Waterbody/Mesh/CentralFlorida/SawPalmetto/SawPalmSingle_1_SM.SawPalmSingle_1_SM
+[2022.11.21-20.31.40:609][742]LogStaticMesh: Built static mesh [0.38s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOak_2_SM.SandLiveOak_2_SM
+[2022.11.21-20.31.40:609][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_23 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:609][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_25 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:609][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_6 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:609][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_7 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:609][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_8 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.40:609][742]LogStaticMesh: Display: Building static mesh SawPalmSingle_2_SM...
+[2022.11.21-20.31.40:609][742]LogStaticMesh: Display: Building static mesh BlazingStar_L_SM...
+[2022.11.21-20.31.40:609][742]LogStaticMesh: Display: Building static mesh BlazingStar_M_SM...
+[2022.11.21-20.31.40:611][742]LogStaticMesh: Built static mesh [0.04s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/BlazingStar_M_SM.BlazingStar_M_SM
+[2022.11.21-20.31.40:612][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/SawPalmetto/SawPalmSingle_2_SM.SawPalmSingle_2_SM
+[2022.11.21-20.31.40:612][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/BlazingStar_L_SM.BlazingStar_L_SM
+[2022.11.21-20.31.40:612][742]LogStaticMesh: Display: Building static mesh BlazingStar_S_SM...
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Display: Building static mesh BrackenFern_L_SM...
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Display: Building static mesh BrackenFern_M_SM...
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/BlazingStar_S_SM.BlazingStar_S_SM
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/BrackenFern_L_SM.BrackenFern_L_SM
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/BrackenFern_M_SM.BrackenFern_M_SM
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Built static mesh [0.57s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_1_SM.SandLiveOakXL_1_SM
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Display: Building static mesh BrackenFern_S_SM...
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Display: Building static mesh FeaysPalafox_L_SM...
+[2022.11.21-20.31.40:684][742]LogStaticMesh: Display: Building static mesh FeaysPalafox_M_SM...
+[2022.11.21-20.31.40:684][742]LogObjectTools: Deleting 1 worlds: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map
+[2022.11.21-20.31.40:685][742]LogObjectTools: Currently 3 active worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.11.21-20.31.40:694][742]LogStaticMesh: Built static mesh [0.02s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/BrackenFern_S_SM.BrackenFern_S_SM
+[2022.11.21-20.31.40:694][742]LogStaticMesh: Display: Building static mesh FeaysPalafox_S_SM...
+[2022.11.21-20.31.40:695][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Display: Building static mesh ChalkyBluestem_L_SM...
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/FeaysPalafox_M_SM.FeaysPalafox_M_SM
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/FeaysPalafox_S_SM.FeaysPalafox_S_SM
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_1/FeaysPalafox_L_SM.FeaysPalafox_L_SM
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Display: Building static mesh ChalkyBluestem_M_SM...
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Display: Building static mesh ChalkyBluestem_S_SM...
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Display: Building static mesh Indiangrass_L_SM...
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Built static mesh [0.04s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/ChalkyBluestem_L_SM.ChalkyBluestem_L_SM
+[2022.11.21-20.31.40:757][742]LogStaticMesh: Display: Building static mesh Indiangrass_M_SM...
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/ChalkyBluestem_S_SM.ChalkyBluestem_S_SM
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/Indiangrass_M_SM.Indiangrass_M_SM
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/Indiangrass_L_SM.Indiangrass_L_SM
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/ChalkyBluestem_M_SM.ChalkyBluestem_M_SM
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Display: Building static mesh Indiangrass_S_SM...
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Display: Building static mesh SpanishMoss_2_SM...
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Display: Building static mesh SpanishMoss_1_SM...
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Display: Building static mesh SpanishMoss_3_SM...
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Built static mesh [0.00s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/SpanishMoss_2_SM.SpanishMoss_2_SM
+[2022.11.21-20.31.40:876][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/SpanishMoss_1_SM.SpanishMoss_1_SM
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh SpanishMoss_4_SM...
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh SpanishMoss_5_SM...
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/Indiangrass_S_SM.Indiangrass_S_SM
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh SpanishMoss_6_SM...
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/SpanishMoss_6_SM.SpanishMoss_6_SM
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh Wiregrass_L_SM...
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/SpanishMoss_4_SM.SpanishMoss_4_SM
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/SpanishMoss_5_SM.SpanishMoss_5_SM
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh Wiregrass_M_SM...
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh Wiregrass_S_SM...
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Built static mesh [0.07s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/SpanishMoss_3_SM.SpanishMoss_3_SM
+[2022.11.21-20.31.40:877][742]LogStaticMesh: Display: Building static mesh Coastalplain_L_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/Wiregrass_S_SM.Wiregrass_S_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh Coastalplain_M_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.11s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/Wiregrass_L_SM.Wiregrass_L_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_10/Wiregrass_M_SM.Wiregrass_M_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/Coastalplain_L_SM.Coastalplain_L_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/Coastalplain_M_SM.Coastalplain_M_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh FloridaTickseed_L_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh Coastalplain_S_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh FloridaTickseed_M_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh FloridaTickseed_S_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/Coastalplain_S_SM.Coastalplain_S_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/FloridaTickseed_M_SM.FloridaTickseed_M_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh TallJointweed_L_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/FloridaTickseed_S_SM.FloridaTickseed_S_SM
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Display: Building static mesh TallJointweed_M_SM...
+[2022.11.21-20.31.40:996][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/FloridaTickseed_L_SM.FloridaTickseed_L_SM
+[2022.11.21-20.31.41:098][742]LogStaticMesh: Display: Building static mesh TallJointweed_S_SM...
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Display: Building static mesh PricklyPear_L_SM...
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Built static mesh [0.02s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/TallJointweed_S_SM.TallJointweed_S_SM
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Display: Building static mesh PricklyPear_M_SM...
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/TallJointweed_M_SM.TallJointweed_M_SM
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_2/TallJointweed_L_SM.TallJointweed_L_SM
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Display: Building static mesh PricklyPear_S_SM...
+[2022.11.21-20.31.41:099][742]LogStaticMesh: Display: Building static mesh Waterlily_L_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_3/Waterlily_L_SM.Waterlily_L_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [1.01s] /Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_2_SM.SandLiveOakXL_2_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.12s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_3/PricklyPear_L_SM.PricklyPear_L_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.11s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_3/PricklyPear_M_SM.PricklyPear_M_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh Waterlily_M_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_3/PricklyPear_S_SM.PricklyPear_S_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh Waterlily_S_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh FlattopGoldenrod_L_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh FlattopGoldenrod_M_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh FlattopGoldenrod_S_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_3/Waterlily_S_SM.Waterlily_S_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_3/Waterlily_M_SM.Waterlily_M_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/FlattopGoldenrod_M_SM.FlattopGoldenrod_M_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh Goldenrod_L_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh Goldenrod_M_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh Goldenrod_S_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/FlattopGoldenrod_L_SM.FlattopGoldenrod_L_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh ReindeerMoss_L_SM...
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Built static mesh [0.03s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/FlattopGoldenrod_S_SM.FlattopGoldenrod_S_SM
+[2022.11.21-20.31.41:222][742]LogStaticMesh: Display: Building static mesh ReindeerMoss_M_SM...
+[2022.11.21-20.31.41:336][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/Goldenrod_L_SM.Goldenrod_L_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/ReindeerMoss_L_SM.ReindeerMoss_L_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/Goldenrod_M_SM.Goldenrod_M_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/ReindeerMoss_M_SM.ReindeerMoss_M_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/Goldenrod_S_SM.Goldenrod_S_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh ReindeerMoss_S_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh Coontie_L_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh Coontie_M_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh Coontie_S_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh FetterbushBaby_M_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/Coontie_M_SM.Coontie_M_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_4/ReindeerMoss_S_SM.ReindeerMoss_S_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/Coontie_S_SM.Coontie_S_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/FetterbushBaby_M_SM.FetterbushBaby_M_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh FetterbushBaby_S_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh Fetterbush_L_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/Coontie_L_SM.Coontie_L_SM
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh Fetterbush_M_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh Fetterbush_S_SM...
+[2022.11.21-20.31.41:337][742]LogStaticMesh: Display: Building static mesh ScrubRosemary_L_SM...
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Built static mesh [0.04s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/Fetterbush_S_SM.Fetterbush_S_SM
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Display: Building static mesh ScrubRosemary_M_SM...
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/Fetterbush_M_SM.Fetterbush_M_SM
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/FetterbushBaby_S_SM.FetterbushBaby_S_SM
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Display: Building static mesh ScrubRosemary_S_SM...
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Display: Building static mesh HoodedPitcher_L_SM...
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Built static mesh [0.08s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/ScrubRosemary_L_SM.ScrubRosemary_L_SM
+[2022.11.21-20.31.41:444][742]LogStaticMesh: Display: Building static mesh HoodedPitcher_M_SM...
+[2022.11.21-20.31.41:548][742]LogStaticMesh: Built static mesh [0.09s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/ScrubRosemary_M_SM.ScrubRosemary_M_SM
+[2022.11.21-20.31.41:548][742]LogStaticMesh: Built static mesh [0.07s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/ScrubRosemary_S_SM.ScrubRosemary_S_SM
+[2022.11.21-20.31.41:548][742]LogStaticMesh: Display: Building static mesh HoodedPitcher_S_SM...
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Display: Building static mesh AmericanBeautyberry__SM...
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Built static mesh [0.15s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_5/Fetterbush_L_SM.Fetterbush_L_SM
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Display: Building static mesh ForkedBluecurl_SM...
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Built static mesh [0.11s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_6/HoodedPitcher_M_SM.HoodedPitcher_M_SM
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_6/HoodedPitcher_S_SM.HoodedPitcher_S_SM
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Display: Building static mesh ScarletCalamint_SM...
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Display: Building static mesh FloridaPaintbrush_L_SM...
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Built static mesh [0.04s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_7/ForkedBluecurl_SM.ForkedBluecurl_SM
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Display: Building static mesh FloridaPaintbrush_M_SM...
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Built static mesh [0.07s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_7/AmericanBeautyberry__SM.AmericanBeautyberry__SM
+[2022.11.21-20.31.41:549][742]LogStaticMesh: Display: Building static mesh RaylessSunflower_SM...
+[2022.11.21-20.31.41:663][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_8/FloridaPaintbrush_M_SM.FloridaPaintbrush_M_SM
+[2022.11.21-20.31.41:663][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_8/RaylessSunflower_SM.RaylessSunflower_SM
+[2022.11.21-20.31.41:663][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_8/FloridaPaintbrush_L_SM.FloridaPaintbrush_L_SM
+[2022.11.21-20.31.41:663][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_7/ScarletCalamint_SM.ScarletCalamint_SM
+[2022.11.21-20.31.41:663][742]LogStaticMesh: Display: Building static mesh RaylessSunflower_L_SM...
+[2022.11.21-20.31.41:663][742]LogStaticMesh: Display: Building static mesh ShortleafRose_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh StJohnsWort_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh TitusvilleBalm_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Built static mesh [0.20s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_6/HoodedPitcher_L_SM.HoodedPitcher_L_SM
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh WaxMyrtle_L_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_8/RaylessSunflower_L_SM.RaylessSunflower_L_SM
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_9/StJohnsWort_SM.StJohnsWort_SM
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh WaxMyrtle_M_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_9/TitusvilleBalm_SM.TitusvilleBalm_SM
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh WaxMyrtle_S_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh FakeClump_2_L_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/WaxMyrtle/WaxMyrtle_L_SM.WaxMyrtle_L_SM
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh FakeClump_2_S_SM...
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeClump_2_L_SM.FakeClump_2_L_SM
+[2022.11.21-20.31.41:664][742]LogStaticMesh: Display: Building static mesh FakeClump_L_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/CentralFlorida/WaxMyrtle/WaxMyrtle_S_SM.WaxMyrtle_S_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeClump_L_SM.FakeClump_L_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.12s] /Game/FL_Waterbody/Mesh/CentralFlorida/Set_9/ShortleafRose_SM.ShortleafRose_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeClump_S_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeClump_2_S_SM.FakeClump_2_S_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeGrassClump_L_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeGrassClump_S_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.07s] /Game/FL_Waterbody/Mesh/CentralFlorida/WaxMyrtle/WaxMyrtle_M_SM.WaxMyrtle_M_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeedDead_1_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeedDead_2_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeClump_S_SM.FakeClump_S_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeedDead_3_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeedDead_2_SM.FakeWeedDead_2_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeedDead_1_SM.FakeWeedDead_1_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeedDead_L_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeed_1_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeedDead_3_SM.FakeWeedDead_3_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeed_1_SM.FakeWeed_1_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeGrassClump_S_SM.FakeGrassClump_S_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.05s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeedDead_L_SM.FakeWeedDead_L_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeed_2_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh FakeWeed_L_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh NeedlePile1_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh NeedlePileSmall_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeGrassClump_L_SM.FakeGrassClump_L_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeed_2_SM.FakeWeed_2_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh PalmFrond1_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh PalmFrond2_SM...
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Built static mesh [0.01s] /Game/FL_Waterbody/Mesh/FakeFiller/FakeWeed_L_SM.FakeWeed_L_SM
+[2022.11.21-20.31.41:780][742]LogStaticMesh: Display: Building static mesh MesicFlatwoods_Siding_SM...
+[2022.11.21-20.31.41:901][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/Misc/Litter/PalmFrond2_SM.PalmFrond2_SM
+[2022.11.21-20.31.41:901][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/Misc/Litter/NeedlePile1_SM.NeedlePile1_SM
+[2022.11.21-20.31.41:901][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/Misc/Litter/NeedlePileSmall_SM.NeedlePileSmall_SM
+[2022.11.21-20.31.41:901][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/Misc/Litter/PalmFrond1_SM.PalmFrond1_SM
+[2022.11.21-20.31.41:901][742]LogStaticMesh: Built static mesh [0.06s] /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/MesicFlatwoods_Siding_SM.MesicFlatwoods_Siding_SM
+[2022.11.21-20.31.41:901][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypress_BB_Color_T.PondCypress_BB_Color_T (TFO_AutoDXT, 512X1024 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.41:901][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypress_BaseColor_T.PondCypress_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.41:901][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypress_Normal_T.PondCypress_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.41:901][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypress_SSS_T.PondCypress_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.41:901][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypressBark_Color_T.PondCypressBark_Color_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypress_L_BB_Color_T.PondCypress_L_BB_Color_T (TFO_AutoDXT, 512X1024 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalm_BaseColor_T.SabalPalm_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/PondCypress/PondCypressBark_Normal_T.PondCypressBark_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalm_Normal_T.SabalPalm_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:138][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalmDead_BB_Color_T.SabalPalmDead_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:138][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalm_SSS_T.SabalPalm_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:261][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalm_BB_Color_T.SabalPalm_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:261][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalm_S_BB_Color_T.SabalPalm_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:261][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalmBark_BaseColor_T.SabalPalmBark_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:261][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakBaby_BB_Color_T.SandLiveOakBaby_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:261][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SabalPalm/SabalPalmBark_Normal_T.SabalPalmBark_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:261][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakLeaves_BaseColor_T.SandLiveOakLeaves_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:381][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakBark_BaseColor_T.SandLiveOakBark_BaseColor_T (TFO_AutoDXT, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:381][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakLeaves_Normal_T.SandLiveOakLeaves_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:381][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakBark_Normal_T.SandLiveOakBark_Normal_T (TFO_BC5, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:381][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakLeaves_SSS_T.SandLiveOakLeaves_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:650][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakBranches_SSS_T.SandLiveOakBranches_SSS_T (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:651][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakXL_1_BB_Color_T.SandLiveOakXL_1_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:651][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakBranches_Normal_T.SandLiveOakBranches_Normal_T (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:651][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Set_10_Normal_T.Set_10_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:651][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Set_10_BaseColor_T.Set_10_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:651][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakBranches_BaseColor_T.SandLiveOakBranches_BaseColor_T (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:769][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Set_10_SSS_T.Set_10_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:898][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Set_10_WindBlock_T.Set_10_WindBlock_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:898][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOakXL_2_BB_Color_T.SandLiveOakXL_2_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:898][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SandLiveOak/SandLiveOak_BB_Color_T.SandLiveOak_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:898][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmLeaves_BaseColor_T.SawPalmLeaves_BaseColor_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:898][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmLeaves_SSS_T.SawPalmLeaves_SSS_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.42:898][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmLeaves_Normal_T.SawPalmLeaves_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmSingle_BB_Color_T.SawPalmSingle_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmBaby_BB_Color_T.SawPalmBaby_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmBark_BaseColor_T.SawPalmBark_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:013][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmDouble_BB_Color_T.SawPalmDouble_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:138][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/SawPalmetto/SawPalmBark_Normal_T.SawPalmBark_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:138][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/Set_1_SSS_T.Set_1_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:138][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/BlazingStar_M_BB_Color_T.BlazingStar_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:138][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/BlazingStar_S_BB_Color_T.BlazingStar_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/BrackenFern_L_BB_Color_T.BrackenFern_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/BrackenFern_S_BB_Color_T.BrackenFern_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/BrackenFern_M_BB_Color_T.BrackenFern_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/FeaysPalafox_L_BB_Color_T.FeaysPalafox_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/FeaysPalafox_M_BB_Color_T.FeaysPalafox_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_1/FeaysPalafox_S_BB_Color_T.FeaysPalafox_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/ChalkyBluestem_BB_Color_T.ChalkyBluestem_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Indiangrass_BB_Color_T.Indiangrass_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Wiregrass_L_BB_Color_T.Wiregrass_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/SpanishMoss_BB_Color_T.SpanishMoss_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:245][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/Wiregrass_S_BB_Color_T.Wiregrass_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/Coastalplain_L_BB_Color_T.Coastalplain_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/Coastalplain_M_BB_Color_T.Coastalplain_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/Set_2_Normal_T.Set_2_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/Set_2_SSS_T.Set_2_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/Coastalplain_S_BB_Color_T.Coastalplain_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/Set_2_BaseColor_T.Set_2_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/FloridaTickseed_L_BB_Color_T.FloridaTickseed_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:357][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/FloridaTickseed_M_BB_Color_T.FloridaTickseed_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/FloridaTickseed_S_BB_Color_T.FloridaTickseed_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/TallJointweed_L_BB_Color_T.TallJointweed_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/TallJointweed_M_BB_Color_T.TallJointweed_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_2/TallJointweed_S_BB_Color_T.TallJointweed_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/PricklyPear_L_BB_Color_T.PricklyPear_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/PricklyPear_M_BB_Color_T.PricklyPear_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/PricklyPear_S_BB_Color_T.PricklyPear_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:473][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/Set_3_BaseColor_T.Set_3_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:579][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/Set_3_Normal_T.Set_3_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:579][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/Set_3_SSS_T.Set_3_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:579][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/Waterlily_L_BB_Color_T.Waterlily_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:579][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/Waterlily_M_BB_Color_T.Waterlily_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:579][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_3/Waterlily_S_BB_Color_T.Waterlily_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/FlattopGoldenrod_L_BB_Color_T.FlattopGoldenrod_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/Set_4_BaseColor_T.Set_4_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/FlattopGoldenrod_M_BB_Color_T.FlattopGoldenrod_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/Set_4_SSS_T.Set_4_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/Set_4_Normal_T.Set_4_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/FlattopGoldenrod_S_BB_Color_T.FlattopGoldenrod_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/Goldenrod_BB_L_Color_T.Goldenrod_BB_L_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:693][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/Goldenrod_BB_M_Color_T.Goldenrod_BB_M_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:825][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/Goldenrod_BB_S_Color_T.Goldenrod_BB_S_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_4/ReindeerMoss_BB_Color_T.ReindeerMoss_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Coontie_L_BB_Color_T.Coontie_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Coontie_M_BB_Color_T.Coontie_M_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Set_5_Normal_T.Set_5_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Set_5_BaseColor_T.Set_5_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Coontie_S_BB_Color_T.Coontie_S_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Set_5_SSS_T.Set_5_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:826][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Fetterbush_BB_Color_T.Fetterbush_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/Fetterbush_L_BB_Color_T.Fetterbush_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/ScrubRosemary_L_BB_Color_T.ScrubRosemary_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_5/ScrubRosemary_BB_Color_T.ScrubRosemary_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_6/HoodedPitcher_BB_Color_T.HoodedPitcher_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_6/Set_6_BaseColor_T.Set_6_BaseColor_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_6/Set_6_SSS_T.Set_6_SSS_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:930][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_6/Set_6_Normal_T.Set_6_Normal_T (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.43:931][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_7/ForkedBluecurl_BB_Color_T.ForkedBluecurl_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_7/ScarletCalamint_BB_Color_T.ScarletCalamint_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_8/FloridaPaintbrush_BB_Color_T.FloridaPaintbrush_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_8/Set_8_BaseColor_T.Set_8_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_7/Set_7_BaseColor_T.Set_7_BaseColor_T (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_8/Set_8_Normal_T.Set_8_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_7/Set_7_SSS_T.Set_7_SSS_T (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:053][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_7/Set_7_Normal_T.Set_7_Normal_T (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:169][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_8/Set_8_SSS_T.Set_8_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:282][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_8/RaylessSunflower_BB_Color_T.RaylessSunflower_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:282][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_9/Set_9_BaseColor_T.Set_9_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:282][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_9/Set_9_Normal_T.Set_9_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:392][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_9/ShortleafRose_BB_Color_T.ShortleafRose_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:393][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_9/Set_9_SSS_T.Set_9_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:393][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_9/StJohnsWort_BB_Color_T.StJohnsWort_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:393][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_9/TitusvilleBalm_BB_Color_T.TitusvilleBalm_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:393][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtle_L_BB_Color_T.WaxMyrtle_L_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:496][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtle_BaseColor_T.WaxMyrtle_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:496][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtle_Normal_T.WaxMyrtle_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:496][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtle_SSS_T.WaxMyrtle_SSS_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:496][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtleBark_BaseColor_T.WaxMyrtleBark_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:496][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtleBarkNormal_T.WaxMyrtleBarkNormal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:614][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/WaxMyrtle/WaxMyrtle_BB_Color_T.WaxMyrtle_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:614][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/FakeClump_2_BB_Color_T.FakeClump_2_BB_Color_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:614][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/FakeClump_BB_Color_T.FakeClump_BB_Color_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:614][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_10/FakeGrassClump_BB_Color_T.FakeGrassClump_BB_Color_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:614][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/GroundClutter_Normal_T.GroundClutter_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:614][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/GroundClutter_BaseColor_T.GroundClutter_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:746][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Dirt_Normal_T.Dirt_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:746][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Grass_BaseColor_T.Grass_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:746][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Grass_Normal_T.Grass_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.44:865][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Mulch_BaseColor_T.Mulch_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:005][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Mulch_Normal_T.Mulch_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:005][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Leaves_Height_T.Leaves_Height_T (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:005][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Leaves_BaseColor_T.Leaves_BaseColor_T (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:005][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Sand_BaseColor_T.Sand_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:005][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Leaves_Normal_T.Leaves_Normal_T (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:116][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Sand_Normal_T.Sand_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:358][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPine_BaseColor_T.LongLeafPine_BaseColor_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:358][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_1 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:358][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPine_2_BB_Color_T.LongLeafPine_2_BB_Color_T (TFO_AutoDXT, 512X1024 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:358][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPine_Normal_T.LongLeafPine_Normal_T (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:359][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPine_SSS_T.LongLeafPine_SSS_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:359][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/LongLeafPine/LongLeafPine_1_BB_Color_T.LongLeafPine_1_BB_Color_T (TFO_AutoDXT, 512X1024 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_14 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_19 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_2 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_24 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_26 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_27 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_28 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_29 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_3 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_30 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_31 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_32 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_33 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_34 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_35 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:461][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_36 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:462][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_37 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:462][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_4 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:462][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_5 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:462][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Maps/Communities/CentralFlorida/MesicFlatwoods_Map.MesicFlatwoods_Map:PersistentLevel.Landscape_0.Texture2D_9 (BGRA8, 8X8 X1X1) (Required Memory Estimate: 0.001621 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:462][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Plants/CentralFlorida/Set_7/AmericanBeautyberry_BB_Color_T.AmericanBeautyberry_BB_Color_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:462][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/CurvedLeaves_SSS_T.CurvedLeaves_SSS_T (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:583][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Dirt2_BaseColor_T.Dirt2_BaseColor_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:583][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Ground/Dirt2_Normal_T.Dirt2_Normal_T (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.45:583][742]LogTexture: Display: Building textures: /Game/FL_Waterbody/Textures/Misc/Grunge_01_T.Grunge_01_T (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.21-20.31.54:164][742]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.21-20.31.54:191][742]LogUObjectGlobals: Force Deleting 527 Package(s):
+	Asset Name: /Game/FL_Waterbody/Mesh/Misc/LandscapeChunks/Waterbody_Siding_SM.Waterbody_Siding_SM
+	Asset Type: StaticMesh
+	Asset Name: /Game/FL_Waterbody/Materials/Misc/LandscapeSiding_Mat.LandscapeSiding_Mat
+	Asset Type: Material
+	Asset Name: /Game/FL_Waterbody/Textures/Ground/Dirt_BaseColor_T.Dirt_BaseColor_T
+	Asset Type: Texture2D
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/DahoonHolly/DahoonHolly_L_F.DahoonHolly_L_F
+	Asset Type: FoliageType_InstancedStaticMesh
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/DahoonHolly/DahoonHolly_Male_F.DahoonHolly_Male_F
+	Asset Type: FoliageType_InstancedStaticMesh
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/DahoonHolly/DahoonHolly_M_F.DahoonHolly_M_F
+	Asset Type: FoliageType_InstancedStaticMesh
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/DahoonHolly/DahoonHolly_S_F.DahoonHolly_S_F
+	Asset Type: FoliageType_InstancedStaticMesh
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/LongLeafPine/LongLeafPine_1_F.LongLeafPine_1_F
+	Asset Type: FoliageType_InstancedStaticMesh
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/LongLeafPine/LongLeafPine_2_F.LongLeafPine_2_F
+	Asset Type: FoliageType_InstancedStaticMesh
+	Asset Name: /Game/FL_Waterbody/Foliage/CentralFlorida/LongLeafPine/LongLeafPine_3_F.LongLeafPine_3_F
+	Asset Type: FoliageType_InstancedStaticMesh
+[2022.11.21-20.31.55:803][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D7692F08403A39C4E85DA524666593A6800970), compiling. 
+[2022.11.21-20.31.55:805][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_PlantMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:816][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D7692F08403A39C4E85DA524666593A6800970), compiling. 
+[2022.11.21-20.31.55:818][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_PlantMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:828][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D7692F08403A39C4E85DA524666593A6800970), compiling. 
+[2022.11.21-20.31.55:831][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_PlantMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:841][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D7692F08403A39C4E85DA524666593A6800970), compiling. 
+[2022.11.21-20.31.55:843][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_PlantMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:853][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D7692F08403A39C4E85DA524666593A6800970), compiling. 
+[2022.11.21-20.31.55:855][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_PlantMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:866][742]LogMaterial: Display: Missing cached shadermap for 1_PlantMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0D7692F08403A39C4E85DA524666593A6800970), compiling. 
+[2022.11.21-20.31.55:869][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_PlantMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:936][742]LogMaterial: Display: Missing cached shadermap for 2_BillboardMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E0CBE18EE706F7B30DFFBF3CDF67CB58CF65438D), compiling. 
+[2022.11.21-20.31.55:938][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\2_BillboardMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.55:963][742]LogMaterial: Display: Missing cached shadermap for LandscapeSiding_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5BCE558ED839000CA1A2013EE7B7A8C699B9DA9A), compiling. 
+[2022.11.21-20.31.55:964][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\Misc\LandscapeSiding_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.21-20.31.55:990][742]LogMaterial: Display: Missing cached shadermap for 1_BarkMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5DF4EBDE8FBD36BC3FA7B412DBAB76935C20A315), compiling. 
+[2022.11.21-20.31.55:991][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_BarkMaster_mAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.31.59:240][742]LogMeshUtilities: Finished distance field build in 4.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 434 triangles, DahoonHolly_L_SM
+[2022.11.21-20.31.59:259][742]LogMeshUtilities: Finished distance field build in 4.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 434 triangles, DahoonHolly_Male_SM
+[2022.11.21-20.32.06:735][742]LogMeshUtilities: Finished distance field build in 2.8s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 3756 triangles, LongLeafPine_1_SM
+[2022.11.21-20.32.06:735][742]LogMeshUtilities: Finished distance field build in 4.0s - 119x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 48% occupied, 368 triangles, DahoonHolly_S_SM
+[2022.11.21-20.32.06:735][742]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 41% occupied, 4061 triangles, LongLeafPine_2_SM
+[2022.11.21-20.32.06:735][742]LogMeshUtilities: Finished distance field build in 4.6s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 387 triangles, DahoonHolly_M_SM
+[2022.11.21-20.32.06:837][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_1_SM) ...
+[2022.11.21-20.32.06:877][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_1_SM) ...
+[2022.11.21-20.32.06:914][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_1_SM) ...
+[2022.11.21-20.32.06:959][742]LogMaterial: Warning: 2_BillboardMaster_Mat: Requesting an invalid TextureIndex! (0 / 0)
+[2022.11.21-20.32.07:023][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_2_SM) ...
+[2022.11.21-20.32.07:047][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_2_SM) ...
+[2022.11.21-20.32.07:074][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_2_SM) ...
+[2022.11.21-20.32.08:337][742]LogMeshUtilities: Finished distance field build in 2.6s - 112x119x126 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 41% occupied, 4176 triangles, LongLeafPine_4_SM
+[2022.11.21-20.32.08:337][742]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 30% occupied, 4162 triangles, LongLeafPine_3_SM
+[2022.11.21-20.32.08:372][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_3_SM) ...
+[2022.11.21-20.32.08:397][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_3_SM) ...
+[2022.11.21-20.32.08:421][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_3_SM) ...
+[2022.11.21-20.32.08:495][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_4_SM) ...
+[2022.11.21-20.32.08:521][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_4_SM) ...
+[2022.11.21-20.32.08:546][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/LongLeafPine/LongLeafPine_4_SM) ...
+[2022.11.21-20.32.10:546][742]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 725 triangles, PondCypress_M_SM
+[2022.11.21-20.32.10:546][742]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 1209 triangles, PondCypress_L_SM
+[2022.11.21-20.32.11:499][742]LogMeshUtilities: Finished distance field build in 1.1s - 98x105x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 33% occupied, 871 triangles, PondCypress_S_SM
+[2022.11.21-20.32.12:822][742]LogMeshUtilities: Finished distance field build in 1.7s - 112x112x126 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 42% occupied, 836 triangles, SabalPalm_SM
+[2022.11.21-20.32.17:436][742]LogMeshUtilities: Finished distance field build in 4.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 5130 triangles, SandLiveOakXL_1_SM
+[2022.11.21-20.32.17:456][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_1_SM) ...
+[2022.11.21-20.32.17:491][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_1_SM) ...
+[2022.11.21-20.32.17:525][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_1_SM) ...
+[2022.11.21-20.32.17:560][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_1_SM) ...
+[2022.11.21-20.32.17:596][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_1_SM) ...
+[2022.11.21-20.32.22:568][742]LogMeshUtilities: Finished distance field build in 5.0s - 119x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 48% occupied, 1573 triangles, SandLiveOak_1_SM
+[2022.11.21-20.32.22:568][742]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 49% occupied, 6553 triangles, SandLiveOakXL_2_SM
+[2022.11.21-20.32.22:589][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_2_SM) ...
+[2022.11.21-20.32.22:642][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_2_SM) ...
+[2022.11.21-20.32.22:691][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_2_SM) ...
+[2022.11.21-20.32.22:741][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_2_SM) ...
+[2022.11.21-20.32.22:793][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOakXL_2_SM) ...
+[2022.11.21-20.32.25:941][742]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 46% occupied, 1723 triangles, SandLiveOak_3_SM
+[2022.11.21-20.32.25:941][742]LogMeshUtilities: Finished distance field build in 5.0s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 2586 triangles, SandLiveOak_2_SM
+[2022.11.21-20.32.25:962][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOak_2_SM) ...
+[2022.11.21-20.32.25:983][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOak_2_SM) ...
+[2022.11.21-20.32.26:004][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FL_Waterbody/Mesh/CentralFlorida/SandLiveOak/SandLiveOak_2_SM) ...
+[2022.11.21-20.32.33:672][742]LogMeshUtilities: Finished distance field build in 4.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 246 triangles, WaxMyrtle_M_SM
+[2022.11.21-20.32.33:672][742]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 420 triangles, WaxMyrtle_L_SM
+[2022.11.21-20.32.35:475][742]LogMeshUtilities: Finished distance field build in 2.0s - 126x105x112 sparse distance field, 1.5Mb total, 0.0Mb always loaded, 55% occupied, 187 triangles, WaxMyrtle_S_SM
+[2022.11.21-20.32.35:602][742]LogMaterial: Display: Missing cached shadermap for 1_ClutterMaster_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 73DF2AA7E5027E7F2CA83262857E7CC4A3316240), compiling. 
+[2022.11.21-20.32.35:603][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\1_ClutterMaster_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.11.21-20.32.35:664][742]LogMaterial: Display: Missing cached shadermap for 3_Landscape_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3E05F9D2E888F9034D1465FB6868D72BCE685A62), compiling. 
+[2022.11.21-20.32.35:664][742]LogMaterial: Warning: [AssetLog] C:\Users\eladm\Documents\GitHub\ObstacleCourse-Shenkar\ObstacleCourse\Content\FL_Waterbody\Materials\3_Landscape_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.21-20.32.35:904][742]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_31 in PCD3D_SM5, Default, SM5 (DDC key hash: 47903F755061771CE2B825E5499DB603928B409C), compiling. Is special engine material.
+[2022.11.21-20.32.37:024][742]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x49 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 77% occupied, 910 triangles, MesicFlatwoods_Siding_SM
+[2022.11.21-20.32.45:408][742]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.11.21-20.32.45:408][742]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7079ms] waiting for h/w. InstanceID=1
+[2022.11.21-20.32.45:408][742]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.038305s
+[2022.11.21-20.32.48:509][742]LogMeshUtilities: Finished distance field build in 12.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 434 triangles, DahoonHolly_Male_SM
+[2022.11.21-20.32.48:509][742]LogMeshUtilities: Finished distance field build in 12.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 434 triangles, DahoonHolly_L_SM
+[2022.11.21-20.32.50:992][742]LogMeshUtilities: Finished distance field build in 3.7s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 387 triangles, DahoonHolly_M_SM
+[2022.11.21-20.32.53:063][742]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 3756 triangles, LongLeafPine_1_SM
+[2022.11.21-20.32.54:098][742]LogMeshUtilities: Finished distance field build in 4.3s - 119x119x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 50% occupied, 368 triangles, DahoonHolly_S_SM
+[2022.11.21-20.32.55:959][742]LogMeshUtilities: Finished distance field build in 2.8s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 4162 triangles, LongLeafPine_3_SM
+[2022.11.21-20.32.56:376][742]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 4061 triangles, LongLeafPine_2_SM
+[2022.11.21-20.32.57:614][742]LogMeshUtilities: Finished distance field build in 1.6s - 105x112x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 42% occupied, 4176 triangles, LongLeafPine_4_SM
+[2022.11.21-20.32.58:928][742]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 1209 triangles, PondCypress_L_SM
+[2022.11.21-20.32.59:102][742]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005009s (13.742283s overbudget)
+[2022.11.21-20.32.59:457][742]LogMeshUtilities: Finished distance field build in 1.2s - 98x105x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 33% occupied, 871 triangles, PondCypress_S_SM
+[2022.11.21-20.32.59:874][742]LogWorld: UWorld::CleanupWorld for MesicFlatwoods_Map, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-20.32.59:874][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-20.33.00:270][742]LogMeshUtilities: Finished distance field build in 1.8s - 126x119x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 31% occupied, 725 triangles, PondCypress_M_SM
+[2022.11.21-20.33.01:677][742]LogMeshUtilities: Finished distance field build in 2.0s - 105x105x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 43% occupied, 836 triangles, SabalPalm_SM
+[2022.11.21-20.33.01:879][742]LogMeshUtilities: Finished distance field build in 1.0s - 49x63x77 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 87% occupied, 317 triangles, SandLiveOakBaby_1_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 1.0s - 42x42x35 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 95% occupied, 351 triangles, SawPalmSingle_2_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 1.7s - 56x56x35 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 98% occupied, 454 triangles, SawPalmSingle_1_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 2.3s - 49x70x35 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 95% occupied, 805 triangles, SawPalmDouble_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 1.7s - 56x49x35 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 97% occupied, 552 triangles, ScrubRosemary_L_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 5.3s - 98x77x56 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 84% occupied, 922 triangles, Fetterbush_L_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 6.2s - 126x126x49 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 77% occupied, 910 triangles, MesicFlatwoods_Siding_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 13.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 1723 triangles, SandLiveOak_3_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 14.6s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 2586 triangles, SandLiveOak_2_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 12.0s - 126x98x112 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 58% occupied, 187 triangles, WaxMyrtle_S_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 16.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 6553 triangles, SandLiveOakXL_2_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 13.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 246 triangles, WaxMyrtle_M_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 16.9s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 5130 triangles, SandLiveOakXL_1_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 14.1s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 59% occupied, 420 triangles, WaxMyrtle_L_SM
+[2022.11.21-20.33.21:906][742]LogMeshUtilities: Finished distance field build in 2.2s - 119x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 49% occupied, 1573 triangles, SandLiveOak_1_SM
+[2022.11.21-20.33.21:968][742]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.21-20.33.21:968][742]LogWorld: UWorld::CleanupWorld for MesicFlatwoods_Map, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-20.33.21:968][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-20.33.22:396][742]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F280424E74B01_1500390015 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/P6/E1LDR7QV3TSZZILEUZ1RR9.PackageMetaData in its package
+[2022.11.21-20.33.22:426][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.21-20.33.22:434][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.21-20.33.22:439][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.21-20.33.22:670][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.21-20.33.22:831][743]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3464
+[2022.11.21-20.33.22:858][743]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{553db7ad-52aa-4da6-a815-f02e756facde}, Name=Headphones (Arctis 7 Game)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=38.89
+[2022.11.21-20.33.22:865][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.21-20.33.22:873][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.21-20.33.23:642][755]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.11.21-20.34.18:419][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
