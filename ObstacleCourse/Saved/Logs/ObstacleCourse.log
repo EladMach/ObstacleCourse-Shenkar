@@ -3059,3 +3059,1379 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.22-11.14.21:987][217]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes3FE1EE604514BF87E48BA8998C698FF0.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset'
 [2022.11.22-11.14.21:998][217]AssetCheck: New page: Asset Save: Spikes
 [2022.11.22-11.14.21:998][217]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.11.22-11.14.41:683][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.11.22-11.14.41:683][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.14.42:010][151]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.11.22-11.15.04:597][812]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone should be resaved to improve async compilation performance.
+[2022.11.22-11.15.04:615][812]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Cone) ...
+[2022.11.22-11.15.09:800][409]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.15.09:859][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.22-11.15.11:917][622]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Spikes.Spikes_C
+[2022.11.22-11.15.11:917][622]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Spikes.Spikes_C
+[2022.11.22-11.15.11:918][622]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_0
+[2022.11.22-11.15.11:919][622]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_0
+[2022.11.22-11.15.12:554][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Spikes.Spikes_C
+[2022.11.22-11.15.12:554][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Spikes.Spikes_C
+[2022.11.22-11.15.12:557][678]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_1951386642
+[2022.11.22-11.15.12:558][678]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_1951386642
+[2022.11.22-11.15.30:928][834]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.15.31:039][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.22-11.16.05:367][850]Cmd: DUPLICATE
+[2022.11.22-11.16.05:367][850]Cmd: ACTOR DUPLICATE
+[2022.11.22-11.16.09:735][361]Cmd: EDIT COPY
+[2022.11.22-11.16.10:718][472]Cmd: DUPLICATE
+[2022.11.22-11.16.10:718][472]Cmd: ACTOR DUPLICATE
+[2022.11.22-11.16.34:236][254]Cmd: DUPLICATE
+[2022.11.22-11.16.34:236][254]Cmd: ACTOR DUPLICATE
+[2022.11.22-11.16.41:304][ 85]Cmd: DUPLICATE
+[2022.11.22-11.16.41:304][ 85]Cmd: ACTOR DUPLICATE
+[2022.11.22-11.16.53:149][472]Cmd: DUPLICATE
+[2022.11.22-11.16.53:149][472]Cmd: ACTOR DUPLICATE
+[2022.11.22-11.17.03:525][700]Cmd: DUPLICATE
+[2022.11.22-11.17.03:525][700]Cmd: ACTOR DUPLICATE
+[2022.11.22-11.17.23:384][993]Cmd: TRANSACTION UNDO
+[2022.11.22-11.17.23:384][993]LogEditorTransaction: Undo Move Elements
+[2022.11.22-11.17.23:809][ 17]Cmd: TRANSACTION UNDO
+[2022.11.22-11.17.23:809][ 17]LogEditorTransaction: Undo Move Elements
+[2022.11.22-11.17.25:145][170]Cmd: TRANSACTION UNDO
+[2022.11.22-11.17.25:145][170]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.22-11.17.49:435][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.22-11.17.50:500][943]LogSlate: Window 'Save Content' being destroyed
+[2022.11.22-11.17.50:534][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/5G/MEW7A2JP9UIHHD7X3J48GI
+[2022.11.22-11.17.50:535][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/MEW7A2JP9UIHHD7X3J48GI09F19A174C25BDADF1DC9B936D7C6E8A.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/5G/MEW7A2JP9UIHHD7X3J48GI.uasset'
+[2022.11.22-11.17.50:537][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+[2022.11.22-11.17.50:538][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/A7GPT109Y6ZTTJD4A7TXER910915EE43CE22475A466CBFC56ED1E9.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2022.11.22-11.17.50:540][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47
+[2022.11.22-11.17.50:540][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/1ZXUXCXF1CPW1C7HOM2L473071D7BA4BE0986F24A91594AF3524D7.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47.uasset'
+[2022.11.22-11.17.50:566][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spikes" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset" SILENT=true
+[2022.11.22-11.17.50:568][943]LogSavePackage: Moving output files for package: /Game/Blueprints/Spikes
+[2022.11.22-11.17.50:569][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes210243ED45DAF44A5D3D50A0A8A57EDA.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset'
+[2022.11.22-11.17.50:571][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9
+[2022.11.22-11.17.50:571][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/LVAOMXA9PTJ4KOB9HTJ4W91776A9E24E3252A8CC5D85A36DEB2C77.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9.uasset'
+[2022.11.22-11.17.50:593][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W
+[2022.11.22-11.17.50:594][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/F3YHD3AF3FQHOTOPT2RV5W3D8F8A95456B0F4CA4DAB1943FF97526.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W.uasset'
+[2022.11.22-11.17.50:595][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3
+[2022.11.22-11.17.50:595][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YOZQFV35Q1ZI4P5OSKMAV37750CC8240863287F43FF888A4FB1ECB.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3.uasset'
+[2022.11.22-11.17.50:597][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW
+[2022.11.22-11.17.50:597][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YBPMKFCEYKQDOY0CW1FXRW4E1285B6481A4CDEA8257BA77DFAE4BC.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW.uasset'
+[2022.11.22-11.17.50:598][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC
+[2022.11.22-11.17.50:598][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/PM19KYIPLEG8S8VA9BRZWC874EE00147C729097168608B803B6B42.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC.uasset'
+[2022.11.22-11.17.50:600][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ
+[2022.11.22-11.17.50:600][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/WWVQA97D9FEH5CBVF5E2DJ4AC3E7DC467872DA3613EEACD0931690.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ.uasset'
+[2022.11.22-11.17.50:602][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9
+[2022.11.22-11.17.50:602][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/D1HSS8ASR3WDW2V9914KF945A913F4442115E41EFFC5BBF3934F51.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9.uasset'
+[2022.11.22-11.17.50:603][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW
+[2022.11.22-11.17.50:603][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/23GEXKDVAOLFBZ6L3HPIKW64ACC72A464CBDBCDD92EFA77846C62C.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW.uasset'
+[2022.11.22-11.17.50:605][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP
+[2022.11.22-11.17.50:605][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/I5UBVNGFS44OA9Z1I0YKHP70685C884BBD85CFC2240A86B3413C33.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP.uasset'
+[2022.11.22-11.17.50:607][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y
+[2022.11.22-11.17.50:607][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/2054QOV2YU873JJJZAS95Y9E1D3920409336CD1FE674A92BEE3AC8.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y.uasset'
+[2022.11.22-11.17.50:608][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9
+[2022.11.22-11.17.50:608][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/GJ3NUTWNAHJGU3DHXFGZX976D458174C7A86F72371E283B8CEF97B.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9.uasset'
+[2022.11.22-11.17.50:610][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW
+[2022.11.22-11.17.50:610][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/6CXLSEYASRT5FHWJI74JHW3264BE8B400CDFA351057F90A3BF8B19.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW.uasset'
+[2022.11.22-11.17.50:656][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW
+[2022.11.22-11.17.50:656][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ID0DNIXTAUPWX4AAK96GPW3B43D9034C19907E7777B1B66E79E8CF.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW.uasset'
+[2022.11.22-11.17.50:658][943]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ
+[2022.11.22-11.17.50:658][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YATXHVA2F06VSAF7RONTHQ12D0F50E4C8BEB3BC6EB42953F4C1608.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ.uasset'
+[2022.11.22-11.17.50:659][943]LogFileHelpers: No new changes to save!
+[2022.11.22-11.17.50:705][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.22-11.17.50:727][943]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.11.22-11.17.50:728][943]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ThirdPersonMap7B452E6649AF2CAA029458881AE3433A.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.11.22-11.17.50:737][943]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.078
+[2022.11.22-11.17.50:747][943]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_1951386642
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062360656
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062359655
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062358654
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051984653
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051983652
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051981651
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040139650
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040138649
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040137648
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033071647
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033070646
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033069645
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2009550644
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2004200643
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Floor_C_UAID_3C7C3F280424174C01_1304063463
+[2022.11.22-11.17.50:747][943]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.11.22-11.18.41:154][890]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2022.11.22-11.18.41:157][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.18.41:387][890]LogViewport: Scene viewport resized to 1877x1262, mode Windowed.
+[2022.11.22-11.18.48:501][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/SM_Cube" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/LevelPrototyping/Meshes/SM_Cube.uasset" SILENT=true
+[2022.11.22-11.18.48:504][726]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Cube
+[2022.11.22-11.18.48:504][726]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/SM_Cube6EC77209426106E37D82F4A400A86D21.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/LevelPrototyping/Meshes/SM_Cube.uasset'
+[2022.11.22-11.18.48:518][726]AssetCheck: New page: Asset Save: SM_Cube
+[2022.11.22-11.18.48:518][726]LogContentValidation: Display: Validating StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2022.11.22-11.18.50:408][947]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.18.50:409][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.19.01:667][266]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.19.01:746][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.22-11.19.17:311][ 90]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.19.17:381][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.22-11.19.49:015][804]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.19.49:170][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.22-11.22.05:401][815]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.22.05:467][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.22-11.22.06:942][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.11.22-11.22.06:950][977]LogWorldPartition: Display: GenerateStreaming took 203 us
+[2022.11.22-11.22.06:951][977]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.22-11.22.06:951][977]LogPlayLevel: [PlayLevel] Compiling Spikes before play...
+[2022.11.22-11.22.07:042][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.22.07:046][977]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (1 blueprints)
+[2022.11.22-11.22.07:046][977]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:22:07 PM)
+[2022.11.22-11.22.07:067][977]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.22.07:073][977]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.22.07:073][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006506s)
+[2022.11.22-11.22.07:073][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006563s)
+[2022.11.22-11.22.07:073][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.22.07:074][977]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.22.07:074][977]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.22.07:074][977]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.22.07:076][977]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.22.07:076][977]LogPlayLevel: PIE: World Init took: (0.002740s)
+[2022.11.22-11.22.07:122][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.22-11.22.07:123][977]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.22.07:123][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.22.07:123][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.22.07:123][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.22.07:123][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.22.07:124][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.22.07:125][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.22.07:149][977]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.22.07:149][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.22.07:149][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.22.07:149][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.22.07:150][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.11.22-11.22.07:150][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.11.22-11.22.07:151][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.11.22-11.22.07:151][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.11.22-11.22.07:151][977]LogInit: FAudioDevice initialized.
+[2022.11.22-11.22.07:151][977]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.22.07:162][977]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.22.07:164][977]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.22.07
+[2022.11.22-11.22.07:164][977]LogWorld: Bringing up level for play took: 0.001388
+[2022.11.22-11.22.07:165][977]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2022.11.22-11.22.07:167][977]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=290.000 Y=1110.000 Z=162.150
+[2022.11.22-11.22.07:167][977]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.22.07:204][977]PIE: Server logged in
+[2022.11.22-11.22.07:205][977]PIE: Play in editor total start time 0.257 seconds.
+[2022.11.22-11.22.15:660][974]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641] YOU SHOULD HURRY
+[2022.11.22-11.22.23:624][930]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641] YOU SHOULD HURRY
+[2022.11.22-11.22.25:179][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.22.25:179][113]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.22.25:180][113]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.22.25:180][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.22.25:197][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.22.25:203][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.22.25:249][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.22.25:250][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.11.22-11.22.25:252][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.11.22-11.22.25:259][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.22-11.22.25:297][114]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.11.22-11.23.00:797][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DisappearingPlat" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_DisappearingPlat.uasset" SILENT=true
+[2022.11.22-11.23.00:802][246]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DisappearingPlat
+[2022.11.22-11.23.00:802][246]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_DisappearingPlat7FE8365645D6EEED640BDBA9835E5BB5.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_DisappearingPlat.uasset'
+[2022.11.22-11.23.00:815][246]AssetCheck: New page: Asset Save: BP_DisappearingPlat
+[2022.11.22-11.23.00:815][246]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat
+[2022.11.22-11.23.30:645][743]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2022.11.22-11.23.43:215][234]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.23.43:283][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.22-11.23.48:523][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.11.22-11.23.48:544][842]LogWorldPartition: Display: GenerateStreaming took 215 us
+[2022.11.22-11.23.48:544][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.23.48:544][842]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:23:48 PM)
+[2022.11.22-11.23.48:579][842]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.23.48:585][842]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.23.48:586][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006253s)
+[2022.11.22-11.23.48:586][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006311s)
+[2022.11.22-11.23.48:586][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.23.48:586][842]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.23.48:586][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.23.48:586][842]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.23.48:588][842]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.23.48:588][842]LogPlayLevel: PIE: World Init took: (0.002179s)
+[2022.11.22-11.23.48:634][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.22-11.23.48:637][842]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.23.48:637][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.23.48:637][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.23.48:638][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.23.48:638][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.23.48:638][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.23.48:639][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.23.48:663][842]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.23.48:663][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.23.48:663][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.23.48:663][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.23.48:664][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.11.22-11.23.48:664][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.11.22-11.23.48:665][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.11.22-11.23.48:665][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.11.22-11.23.48:665][842]LogInit: FAudioDevice initialized.
+[2022.11.22-11.23.48:665][842]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.23.48:672][842]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.23.48:674][842]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.23.48
+[2022.11.22-11.23.48:674][842]LogWorld: Bringing up level for play took: 0.001469
+[2022.11.22-11.23.48:675][842]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2022.11.22-11.23.48:677][842]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=290.000 Y=1110.000 Z=162.150
+[2022.11.22-11.23.48:677][842]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.23.48:678][842]PIE: Server logged in
+[2022.11.22-11.23.48:678][842]PIE: Play in editor total start time 0.151 seconds.
+[2022.11.22-11.24.15:683][ 71]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641] YOU SHOULD HURRY!
+[2022.11.22-11.24.23:404][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.24.23:404][987]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.24.23:404][987]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.24.23:404][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.24.23:423][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.24.23:429][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.24.23:473][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.24.23:473][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.11.22-11.24.23:474][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.11.22-11.24.23:482][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.22-11.24.23:520][988]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.11.22-11.24.31:385][883]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.24.31:454][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.22-11.24.37:895][631]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.22-11.24.40:006][875]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.22-11.24.42:306][148]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.22-11.24.43:632][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.11.22-11.24.43:639][297]LogWorldPartition: Display: GenerateStreaming took 233 us
+[2022.11.22-11.24.43:639][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.24.43:639][297]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:24:43 PM)
+[2022.11.22-11.24.43:677][297]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.24.43:682][297]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.24.43:683][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006328s)
+[2022.11.22-11.24.43:683][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006398s)
+[2022.11.22-11.24.43:683][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.24.43:683][297]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.24.43:684][297]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.24.43:684][297]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.24.43:685][297]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.24.43:685][297]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2022.11.22-11.24.43:731][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.22-11.24.43:735][297]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.24.43:735][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.24.43:735][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.24.43:735][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.24.43:735][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.24.43:735][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.24.43:737][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.24.43:760][297]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.24.43:761][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.24.43:761][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.24.43:761][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.24.43:762][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.11.22-11.24.43:762][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.11.22-11.24.43:763][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.11.22-11.24.43:763][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.11.22-11.24.43:763][297]LogInit: FAudioDevice initialized.
+[2022.11.22-11.24.43:763][297]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.24.43:772][297]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.24.43:773][297]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.24.43
+[2022.11.22-11.24.43:773][297]LogWorld: Bringing up level for play took: 0.001530
+[2022.11.22-11.24.43:774][297]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2022.11.22-11.24.43:776][297]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.24.43:777][297]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.24.43:777][297]PIE: Server logged in
+[2022.11.22-11.24.43:778][297]PIE: Play in editor total start time 0.14 seconds.
+[2022.11.22-11.25.05:215][859]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641] YOU SHOULD HURRY!
+[2022.11.22-11.25.10:770][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.25.10:770][523]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.25.10:770][523]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.25.10:771][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.25.10:788][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.25.10:793][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.25.10:840][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.25.10:840][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.11.22-11.25.10:842][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.11.22-11.25.10:849][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.22-11.25.10:891][524]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.11.22-11.25.22:678][909]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.25.22:744][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.22-11.27.40:638][606]BlueprintLog: New page: Compile BP_MovingPlatform
+[2022.11.22-11.27.40:705][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.22-11.27.44:270][874]LogViewport: Scene viewport resized to 808x816, mode Windowed.
+[2022.11.22-11.27.45:582][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2022.11.22-11.27.45:589][ 25]LogWorldPartition: Display: GenerateStreaming took 201 us
+[2022.11.22-11.27.45:589][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.27.45:589][ 25]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:27:45 PM)
+[2022.11.22-11.27.45:629][ 25]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.27.45:634][ 25]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.27.45:635][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006387s)
+[2022.11.22-11.27.45:635][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006452s)
+[2022.11.22-11.27.45:635][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.27.45:635][ 25]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.27.45:636][ 25]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.27.45:636][ 25]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.27.45:637][ 25]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.27.45:637][ 25]LogPlayLevel: PIE: World Init took: (0.002214s)
+[2022.11.22-11.27.45:682][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.22-11.27.45:685][ 25]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.27.45:685][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.27.45:685][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.27.45:685][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.27.45:685][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.27.45:685][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.27.45:687][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.27.45:711][ 25]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.27.45:711][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.27.45:711][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.27.45:711][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.27.45:712][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.11.22-11.27.45:712][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.11.22-11.27.45:713][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.11.22-11.27.45:713][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.11.22-11.27.45:713][ 25]LogInit: FAudioDevice initialized.
+[2022.11.22-11.27.45:713][ 25]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.27.45:727][ 25]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.27.45:728][ 25]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.27.45
+[2022.11.22-11.27.45:728][ 25]LogWorld: Bringing up level for play took: 0.001491
+[2022.11.22-11.27.45:729][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.11.22-11.27.45:732][ 25]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.27.45:732][ 25]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.27.45:732][ 25]PIE: Server logged in
+[2022.11.22-11.27.45:733][ 25]PIE: Play in editor total start time 0.145 seconds.
+[2022.11.22-11.27.53:029][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.27.53:029][890]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.27.53:030][890]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.27.53:030][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.27.53:044][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.27.53:049][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.27.53:096][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.27.53:097][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.11.22-11.27.53:098][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.11.22-11.27.53:102][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.27.53:105][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.22-11.27.53:145][891]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.11.22-11.27.59:755][676]BlueprintLog: New page: Compile BP_MovingPlatform
+[2022.11.22-11.27.59:817][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.22-11.28.00:931][804]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.11.22-11.28.00:938][804]LogWorldPartition: Display: GenerateStreaming took 239 us
+[2022.11.22-11.28.00:938][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.28.00:938][804]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:28:00 PM)
+[2022.11.22-11.28.00:960][804]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.28.00:966][804]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.28.00:966][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006274s)
+[2022.11.22-11.28.00:966][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006335s)
+[2022.11.22-11.28.00:966][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.28.00:967][804]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.28.00:967][804]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.28.00:967][804]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.28.00:968][804]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.28.00:968][804]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2022.11.22-11.28.01:012][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.28.01:014][804]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.28.01:014][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.28.01:014][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.28.01:015][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.28.01:015][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.28.01:015][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.28.01:016][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.28.01:040][804]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.28.01:041][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.28.01:041][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.28.01:041][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.28.01:042][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.11.22-11.28.01:042][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.11.22-11.28.01:043][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.11.22-11.28.01:043][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.11.22-11.28.01:043][804]LogInit: FAudioDevice initialized.
+[2022.11.22-11.28.01:043][804]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.28.01:052][804]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.28.01:054][804]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.28.01
+[2022.11.22-11.28.01:054][804]LogWorld: Bringing up level for play took: 0.001388
+[2022.11.22-11.28.01:055][804]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2022.11.22-11.28.01:057][804]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.28.01:057][804]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.28.01:057][804]PIE: Server logged in
+[2022.11.22-11.28.01:058][804]PIE: Play in editor total start time 0.122 seconds.
+[2022.11.22-11.28.11:201][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.28.11:201][ 10]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.28.11:201][ 10]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.28.11:202][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.28.11:215][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.28.11:221][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.28.11:266][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.28.11:267][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.11.22-11.28.11:268][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.11.22-11.28.11:272][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.28.11:275][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.22-11.28.11:313][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.11.22-11.28.19:101][938]BlueprintLog: New page: Compile BP_MovingPlatform
+[2022.11.22-11.28.19:166][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.28.20:496][ 94]LogViewport: Scene viewport resized to 754x974, mode Windowed.
+[2022.11.22-11.29.29:221][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.29.29:226][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ_Auto3
+[2022.11.22-11.29.29:226][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/WWVQA97D9FEH5CBVF5E2DJ_Auto3BA46388F424E455748C1009D749E06A5.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ_Auto3.uasset'
+[2022.11.22-11.29.29:228][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ_Auto3
+[2022.11.22-11.29.29:228][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/V7M2PQ2O7DSERQO3JQ7KEZ_Auto31866BDB7467DC4B6B33F758ACA9E8729.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ_Auto3.uasset'
+[2022.11.22-11.29.29:229][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3_Auto3
+[2022.11.22-11.29.29:229][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/SWSI13675DVYIZ0N4NF7Y3_Auto3BE403048411AE5BC4DA351A516E2FC94.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3_Auto3.uasset'
+[2022.11.22-11.29.29:231][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE_Auto3
+[2022.11.22-11.29.29:231][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/VPJ91GAFLAZ5SR3EVJ92GE_Auto3DFC9F2B24EEBE8D27F7CB7B37C779743.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE_Auto3.uasset'
+[2022.11.22-11.29.29:233][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47_Auto3
+[2022.11.22-11.29.29:233][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/1ZXUXCXF1CPW1C7HOM2L47_Auto311A86E9848629A2703A5579A20FEB8AE.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47_Auto3.uasset'
+[2022.11.22-11.29.29:235][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9_Auto3
+[2022.11.22-11.29.29:235][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/D1HSS8ASR3WDW2V9914KF9_Auto394A3215F4207BD933DE7BA95E7F4B394.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9_Auto3.uasset'
+[2022.11.22-11.29.29:237][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW_Auto3
+[2022.11.22-11.29.29:237][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/23GEXKDVAOLFBZ6L3HPIKW_Auto3C8E9E07D40E6E33BADE3DEBFA7DAAB48.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW_Auto3.uasset'
+[2022.11.22-11.29.29:238][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP_Auto3
+[2022.11.22-11.29.29:238][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/I5UBVNGFS44OA9Z1I0YKHP_Auto3ECC87F284898EB32079D2DAB2B5E75E0.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP_Auto3.uasset'
+[2022.11.22-11.29.29:239][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y_Auto3
+[2022.11.22-11.29.29:240][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/2054QOV2YU873JJJZAS95Y_Auto395E9BC814C8FA85AD4F056B5505F9E8C.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y_Auto3.uasset'
+[2022.11.22-11.29.29:240][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9_Auto3
+[2022.11.22-11.29.29:242][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/GJ3NUTWNAHJGU3DHXFGZX9_Auto3A8446B2A4DD92FA5E399FDB7418376B0.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9_Auto3.uasset'
+[2022.11.22-11.29.29:243][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW_Auto3
+[2022.11.22-11.29.29:243][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/6CXLSEYASRT5FHWJI74JHW_Auto31706606C405D316CE65DD2AB8009ED6A.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW_Auto3.uasset'
+[2022.11.22-11.29.29:281][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW_Auto3
+[2022.11.22-11.29.29:281][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ID0DNIXTAUPWX4AAK96GPW_Auto3FE13FC3C4D4101A21CA26ABB60B10A2A.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW_Auto3.uasset'
+[2022.11.22-11.29.29:283][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ_Auto3
+[2022.11.22-11.29.29:283][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YATXHVA2F06VSAF7RONTHQ_Auto34A85EAC64859D77C3C8B528805C79E07.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ_Auto3.uasset'
+[2022.11.22-11.29.29:284][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9_Auto3
+[2022.11.22-11.29.29:284][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/LVAOMXA9PTJ4KOB9HTJ4W9_Auto3F0D1D6244116BB0449F1DA9D3654BAC8.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9_Auto3.uasset'
+[2022.11.22-11.29.29:286][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W_Auto3
+[2022.11.22-11.29.29:286][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/F3YHD3AF3FQHOTOPT2RV5W_Auto35B18EA25475F37EE0F427AA6A2F61F05.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W_Auto3.uasset'
+[2022.11.22-11.29.29:287][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3_Auto3
+[2022.11.22-11.29.29:287][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YOZQFV35Q1ZI4P5OSKMAV3_Auto3590F76C4456672FEED9554B27159E08B.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3_Auto3.uasset'
+[2022.11.22-11.29.29:289][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW_Auto3
+[2022.11.22-11.29.29:289][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YBPMKFCEYKQDOY0CW1FXRW_Auto30E2A384540568CC06440128EDE6BBD73.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW_Auto3.uasset'
+[2022.11.22-11.29.29:290][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC_Auto3
+[2022.11.22-11.29.29:290][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/PM19KYIPLEG8S8VA9BRZWC_Auto32619875440CEFE79BBF583A54ADB814C.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC_Auto3.uasset'
+[2022.11.22-11.29.29:291][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.117
+[2022.11.22-11.29.29:291][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2022.11.22-11.29.29:291][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MovingPlatform] ([2] browsable assets)...
+[2022.11.22-11.29.29:310][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform]
+[2022.11.22-11.29.29:310][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MovingPlatform]
+[2022.11.22-11.29.29:345][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_MovingPlatform_Auto3
+[2022.11.22-11.29.29:346][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_MovingPlatform_Auto3B587F78843AC8227F83011BF680B7840.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/BP_MovingPlatform_Auto3.uasset'
+[2022.11.22-11.29.29:347][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_DisappearingPlat] ([2] browsable assets)...
+[2022.11.22-11.29.29:354][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat]
+[2022.11.22-11.29.29:354][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DisappearingPlat]
+[2022.11.22-11.29.29:359][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_DisappearingPlat_Auto3
+[2022.11.22-11.29.29:359][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_DisappearingPlat_Auto337373DDF44CB4B2867B1F28748E7C86E.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/BP_DisappearingPlat_Auto3.uasset'
+[2022.11.22-11.29.29:360][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Spikes] ([2] browsable assets)...
+[2022.11.22-11.29.29:366][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Spikes.Spikes]
+[2022.11.22-11.29.29:366][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spikes]
+[2022.11.22-11.29.29:369][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spikes_Auto3
+[2022.11.22-11.29.29:369][407]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes_Auto35BFE9F4B4377776BF03CA5BECCE91FCB.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/Spikes_Auto3.uasset'
+[2022.11.22-11.29.29:369][407]LogFileHelpers: Auto-saving content packages took 0.079
+[2022.11.22-11.29.31:752][693]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.29.31:824][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.22-11.30.35:646][273]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.30.35:732][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.22-11.30.39:417][700]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.30.39:497][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.22-11.31.41:523][131]LogDerivedDataCache: C:/Users/eladm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.590 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.22-11.32.15:144][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spikes" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset" SILENT=true
+[2022.11.22-11.32.15:148][159]LogSavePackage: Moving output files for package: /Game/Blueprints/Spikes
+[2022.11.22-11.32.15:149][159]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes8497A4364DDC4FF8B9FCAFB700260144.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset'
+[2022.11.22-11.32.15:161][159]AssetCheck: New page: Asset Save: Spikes
+[2022.11.22-11.32.15:161][159]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.11.22-11.33.04:390][964]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.33.04:470][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.22-11.33.07:231][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.11.22-11.33.07:238][287]LogWorldPartition: Display: GenerateStreaming took 233 us
+[2022.11.22-11.33.07:238][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.33.07:238][287]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:33:07 PM)
+[2022.11.22-11.33.07:238][287]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.33.07:246][287]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.33.07:246][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007763s)
+[2022.11.22-11.33.07:246][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007816s)
+[2022.11.22-11.33.07:246][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.33.07:247][287]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.33.07:247][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.33.07:247][287]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.33.07:249][287]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.33.07:249][287]LogPlayLevel: PIE: World Init took: (0.002580s)
+[2022.11.22-11.33.07:296][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.22-11.33.07:298][287]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.33.07:299][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.33.07:299][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.33.07:299][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.33.07:299][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.33.07:299][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.33.07:301][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.33.07:325][287]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.33.07:325][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.33.07:325][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.33.07:325][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.33.07:327][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.11.22-11.33.07:327][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.11.22-11.33.07:328][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.11.22-11.33.07:328][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.11.22-11.33.07:328][287]LogInit: FAudioDevice initialized.
+[2022.11.22-11.33.07:328][287]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.33.07:338][287]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.33.07:340][287]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.33.07
+[2022.11.22-11.33.07:340][287]LogWorld: Bringing up level for play took: 0.001418
+[2022.11.22-11.33.07:341][287]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.11.22-11.33.07:344][287]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.33.07:344][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.33.07:344][287]PIE: Server logged in
+[2022.11.22-11.33.07:345][287]PIE: Play in editor total start time 0.109 seconds.
+[2022.11.22-11.33.13:129][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.33.13:129][969]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.33.13:129][969]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.33.13:129][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.33.13:149][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.33.13:154][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.33.13:202][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.33.13:203][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.11.22-11.33.13:204][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.11.22-11.33.13:212][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.22-11.33.13:251][970]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.11.22-11.33.16:567][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ
+[2022.11.22-11.33.16:568][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/WWVQA97D9FEH5CBVF5E2DJ258F33E045C927F0B580D388082BBC48.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ.uasset'
+[2022.11.22-11.33.16:570][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ
+[2022.11.22-11.33.16:571][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/V7M2PQ2O7DSERQO3JQ7KEZ860FDCE64624051FBA0DCA98CC931AD5.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ.uasset'
+[2022.11.22-11.33.16:572][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2022.11.22-11.33.16:573][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/SWSI13675DVYIZ0N4NF7Y3A6F5C83346A146C3E2FC3FAB1F64AE9A.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2022.11.22-11.33.16:575][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE
+[2022.11.22-11.33.16:575][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/VPJ91GAFLAZ5SR3EVJ92GE7B0D27404C8EDBD8D9467AA90B435A3B.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE.uasset'
+[2022.11.22-11.33.16:577][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47
+[2022.11.22-11.33.16:578][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/1ZXUXCXF1CPW1C7HOM2L47333897FA4459C0FECC5E08AC944E19BD.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47.uasset'
+[2022.11.22-11.33.16:579][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9
+[2022.11.22-11.33.16:580][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/D1HSS8ASR3WDW2V9914KF9CBF7B7044AE409E49E1614949F8E800C.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9.uasset'
+[2022.11.22-11.33.16:582][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW
+[2022.11.22-11.33.16:582][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/23GEXKDVAOLFBZ6L3HPIKWAD580B9F42CE7552586BAC91D4FF88FB.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW.uasset'
+[2022.11.22-11.33.16:584][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP
+[2022.11.22-11.33.16:584][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/I5UBVNGFS44OA9Z1I0YKHPF6C98210412ACAE6E42127A3285842B4.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP.uasset'
+[2022.11.22-11.33.16:586][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y
+[2022.11.22-11.33.16:586][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/2054QOV2YU873JJJZAS95Y4D3036AA4C8BE15E38AD869EEBFDFD95.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y.uasset'
+[2022.11.22-11.33.16:588][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9
+[2022.11.22-11.33.16:588][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/GJ3NUTWNAHJGU3DHXFGZX98DFC5477427F8B740CC589B1436088E2.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9.uasset'
+[2022.11.22-11.33.16:590][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW
+[2022.11.22-11.33.16:591][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/6CXLSEYASRT5FHWJI74JHW8B4B910647D1CFB153890D89CF6F0E36.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW.uasset'
+[2022.11.22-11.33.16:592][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW
+[2022.11.22-11.33.16:593][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ID0DNIXTAUPWX4AAK96GPW8E23D7CB463BDB18735E6084BC877A50.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW.uasset'
+[2022.11.22-11.33.16:594][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ
+[2022.11.22-11.33.16:595][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YATXHVA2F06VSAF7RONTHQ915644FE47EB9CE970591F99A9D7D71E.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ.uasset'
+[2022.11.22-11.33.16:596][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9
+[2022.11.22-11.33.16:597][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/LVAOMXA9PTJ4KOB9HTJ4W93537E7AD4E3A4082CCFE63B2BA6D615D.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9.uasset'
+[2022.11.22-11.33.16:599][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W
+[2022.11.22-11.33.16:599][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/F3YHD3AF3FQHOTOPT2RV5WE3F8D16348F7A3A1E35823B26B1D48CF.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W.uasset'
+[2022.11.22-11.33.16:601][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3
+[2022.11.22-11.33.16:601][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YOZQFV35Q1ZI4P5OSKMAV3A432804C446B5194DFCEA898FC0869BC.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3.uasset'
+[2022.11.22-11.33.16:603][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW
+[2022.11.22-11.33.16:603][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YBPMKFCEYKQDOY0CW1FXRW5A3D0BA74736FF72D5CC25ACABF90BF6.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW.uasset'
+[2022.11.22-11.33.16:605][355]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC
+[2022.11.22-11.33.16:605][355]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/PM19KYIPLEG8S8VA9BRZWC9C1027614CEFEC2A929B61B776C8EE45.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC.uasset'
+[2022.11.22-11.33.16:620][355]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051981651
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040139650
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040138649
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040137648
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033071647
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033070646
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033069645
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2009550644
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2004200643
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_1951386642
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062360656
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062359655
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062358654
+[2022.11.22-11.33.16:620][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051984653
+[2022.11.22-11.33.16:621][355]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051983652
+[2022.11.22-11.33.16:621][355]LogContentValidation: Display: Validating BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_3C7C3F280424124C01_1613430583
+[2022.11.22-11.33.19:681][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.22-11.34.06:113][248]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.34.06:189][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.22-11.34.08:672][534]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.34.08:678][534]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.34.08:678][534]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.34.08:678][534]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.34.08:678][534]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.34.08:678][534]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.34.08:678][534]LogWorldPartition: Display: GetPartitionedActors took 35 us
+[2022.11.22-11.34.08:679][534]LogWorldPartition: Display: GenerateStreaming took 205 us
+[2022.11.22-11.34.08:680][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.34.08:680][534]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:34:08 PM)
+[2022.11.22-11.34.08:715][534]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.34.08:721][534]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.34.08:722][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006763s)
+[2022.11.22-11.34.08:722][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006824s)
+[2022.11.22-11.34.08:722][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.34.08:722][534]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.34.08:723][534]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.34.08:723][534]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.34.08:724][534]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.34.08:724][534]LogPlayLevel: PIE: World Init took: (0.002335s)
+[2022.11.22-11.34.08:769][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.22-11.34.08:773][534]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.34.08:773][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.34.08:773][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.34.08:774][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.34.08:774][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.34.08:774][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.34.08:775][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.34.08:798][534]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.34.08:799][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.34.08:799][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.34.08:799][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.34.08:800][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.11.22-11.34.08:800][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.11.22-11.34.08:801][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.11.22-11.34.08:801][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.11.22-11.34.08:801][534]LogInit: FAudioDevice initialized.
+[2022.11.22-11.34.08:801][534]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.34.08:813][534]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.34.08:814][534]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.34.08
+[2022.11.22-11.34.08:814][534]LogWorld: Bringing up level for play took: 0.001438
+[2022.11.22-11.34.08:816][534]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.11.22-11.34.08:818][534]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.34.08:818][534]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.34.08:819][534]PIE: Server logged in
+[2022.11.22-11.34.08:820][534]PIE: Play in editor total start time 0.142 seconds.
+[2022.11.22-11.34.20:516][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.34.20:516][922]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.34.20:517][922]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.34.20:517][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.34.20:531][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.34.20:536][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.34.20:583][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.34.20:583][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.11.22-11.34.20:585][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.11.22-11.34.20:589][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.34.20:592][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.22-11.34.20:626][923]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.11.22-11.34.50:380][484]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.34.50:458][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.22-11.34.51:734][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.11.22-11.34.51:740][629]LogWorldPartition: Display: GenerateStreaming took 213 us
+[2022.11.22-11.34.51:740][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.34.51:740][629]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:34:51 PM)
+[2022.11.22-11.34.51:770][629]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.34.51:776][629]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.34.51:776][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006586s)
+[2022.11.22-11.34.51:776][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006648s)
+[2022.11.22-11.34.51:776][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.34.51:777][629]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.34.51:777][629]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.34.51:777][629]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.34.51:778][629]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.34.51:779][629]LogPlayLevel: PIE: World Init took: (0.002249s)
+[2022.11.22-11.34.51:825][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.34.51:828][629]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.11.22-11.34.51:828][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.34.51:828][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.34.51:829][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.34.51:829][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.34.51:829][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.34.51:829][629]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.34.51:829][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.34.51:829][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.34.51:829][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.34.51:829][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.34.51:829][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.34.51:830][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.34.51:854][629]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.34.51:855][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.34.51:855][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.34.51:855][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.34.51:855][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.11.22-11.34.51:855][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.11.22-11.34.51:856][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.11.22-11.34.51:856][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.11.22-11.34.51:856][629]LogInit: FAudioDevice initialized.
+[2022.11.22-11.34.51:856][629]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.34.51:865][629]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.34.51:866][629]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.34.51
+[2022.11.22-11.34.51:867][629]LogWorld: Bringing up level for play took: 0.001452
+[2022.11.22-11.34.51:868][629]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.11.22-11.34.51:870][629]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.34.51:870][629]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.34.51:870][629]PIE: Server logged in
+[2022.11.22-11.34.51:871][629]PIE: Play in editor total start time 0.132 seconds.
+[2022.11.22-11.35.08:602][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.35.08:602][626]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.35.08:603][626]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.35.08:603][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.35.08:620][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.35.08:626][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.35.08:674][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.35.08:675][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.11.22-11.35.08:676][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.11.22-11.35.08:680][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.35.08:683][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.22-11.35.08:720][627]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.11.22-11.36.21:375][333]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.36.21:453][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.22-11.36.22:840][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spikes" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset" SILENT=true
+[2022.11.22-11.36.22:844][491]LogSavePackage: Moving output files for package: /Game/Blueprints/Spikes
+[2022.11.22-11.36.22:845][491]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes5FC4D10D4CB3DC9F3CF289BB6827C048.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset'
+[2022.11.22-11.36.22:857][491]AssetCheck: New page: Asset Save: Spikes
+[2022.11.22-11.36.22:857][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.11.22-11.36.24:546][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Display: GetPartitionedActors took 38 us
+[2022.11.22-11.36.24:552][689]LogWorldPartition: Display: GenerateStreaming took 214 us
+[2022.11.22-11.36.24:552][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.36.24:552][689]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:36:24 PM)
+[2022.11.22-11.36.24:582][689]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.36.24:588][689]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.36.24:589][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007278s)
+[2022.11.22-11.36.24:589][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007341s)
+[2022.11.22-11.36.24:589][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.36.24:589][689]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.36.24:590][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.36.24:590][689]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.36.24:591][689]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.36.24:591][689]LogPlayLevel: PIE: World Init took: (0.002365s)
+[2022.11.22-11.36.24:634][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.22-11.36.24:638][689]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.36.24:638][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.36.24:638][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.36.24:638][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.36.24:638][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.36.24:638][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.36.24:640][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.36.24:663][689]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.36.24:664][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.36.24:664][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.36.24:664][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.36.24:664][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.11.22-11.36.24:664][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.11.22-11.36.24:665][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.11.22-11.36.24:665][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.11.22-11.36.24:666][689]LogInit: FAudioDevice initialized.
+[2022.11.22-11.36.24:666][689]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.36.24:678][689]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.36.24:680][689]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.36.24
+[2022.11.22-11.36.24:680][689]LogWorld: Bringing up level for play took: 0.001584
+[2022.11.22-11.36.24:681][689]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2022.11.22-11.36.24:684][689]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.36.24:684][689]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.36.24:684][689]PIE: Server logged in
+[2022.11.22-11.36.24:685][689]PIE: Play in editor total start time 0.135 seconds.
+[2022.11.22-11.36.38:983][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.36.38:983][394]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.36.38:983][394]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.36.38:984][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.36.39:000][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.36.39:005][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.36.39:052][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.36.39:053][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.11.22-11.36.39:053][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.11.22-11.36.39:058][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.36.39:061][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.22-11.36.39:097][395]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.11.22-11.36.49:912][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spikes" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset" SILENT=true
+[2022.11.22-11.36.49:917][683]LogSavePackage: Moving output files for package: /Game/Blueprints/Spikes
+[2022.11.22-11.36.49:917][683]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes9F3D17714EA13A96EB8F00B97A76E57E.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset'
+[2022.11.22-11.36.49:929][683]AssetCheck: New page: Asset Save: Spikes
+[2022.11.22-11.36.49:929][683]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.11.22-11.36.50:563][759]BlueprintLog: New page: Compile Spikes
+[2022.11.22-11.36.50:639][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.22-11.36.51:905][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.11.22-11.36.51:911][902]LogWorldPartition: Display: GenerateStreaming took 202 us
+[2022.11.22-11.36.51:911][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.36.51:911][902]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:36:51 PM)
+[2022.11.22-11.36.51:955][902]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.36.51:961][902]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.36.51:962][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006929s)
+[2022.11.22-11.36.51:962][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006995s)
+[2022.11.22-11.36.51:962][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.36.51:962][902]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.36.51:963][902]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.36.51:963][902]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.36.51:964][902]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.36.51:964][902]LogPlayLevel: PIE: World Init took: (0.002283s)
+[2022.11.22-11.36.52:009][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.22-11.36.52:013][902]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.36.52:013][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.36.52:013][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.36.52:013][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.36.52:013][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.36.52:013][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.36.52:015][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.36.52:038][902]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.36.52:038][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.36.52:038][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.36.52:038][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.36.52:039][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2022.11.22-11.36.52:039][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2022.11.22-11.36.52:040][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2022.11.22-11.36.52:040][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2022.11.22-11.36.52:040][902]LogInit: FAudioDevice initialized.
+[2022.11.22-11.36.52:040][902]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.36.52:050][902]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.36.52:051][902]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.36.52
+[2022.11.22-11.36.52:052][902]LogWorld: Bringing up level for play took: 0.001429
+[2022.11.22-11.36.52:053][902]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.11.22-11.36.52:055][902]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.36.52:055][902]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.36.52:056][902]PIE: Server logged in
+[2022.11.22-11.36.52:057][902]PIE: Play in editor total start time 0.147 seconds.
+[2022.11.22-11.37.08:037][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.37.08:037][808]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.37.08:037][808]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.37.08:037][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.37.08:050][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.37.08:056][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.37.08:105][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.37.08:105][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.11.22-11.37.08:107][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.11.22-11.37.08:111][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.37.08:114][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.22-11.37.08:150][809]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.11.22-11.37.11:464][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.22-11.37.12:497][175]LogSlate: Window 'Save Content' being destroyed
+[2022.11.22-11.37.12:520][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DisappearingPlat" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_DisappearingPlat.uasset" SILENT=true
+[2022.11.22-11.37.12:525][175]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DisappearingPlat
+[2022.11.22-11.37.12:525][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_DisappearingPlatBCDE9E8F4B891AFAEBCDFDB944DBA8EB.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_DisappearingPlat.uasset'
+[2022.11.22-11.37.12:526][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MovingPlatform" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_MovingPlatform.uasset" SILENT=true
+[2022.11.22-11.37.12:530][175]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MovingPlatform
+[2022.11.22-11.37.12:530][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_MovingPlatform86AFFEB94A3038492EDA358816B1449A.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_MovingPlatform.uasset'
+[2022.11.22-11.37.12:532][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47
+[2022.11.22-11.37.12:533][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/1ZXUXCXF1CPW1C7HOM2L47A555BBD24BB18763EB9431B91ABCFD84.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47.uasset'
+[2022.11.22-11.37.12:535][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9
+[2022.11.22-11.37.12:535][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/LVAOMXA9PTJ4KOB9HTJ4W9258E04FC4D28373D99605FB1254914DA.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X1/LVAOMXA9PTJ4KOB9HTJ4W9.uasset'
+[2022.11.22-11.37.12:537][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W
+[2022.11.22-11.37.12:538][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/F3YHD3AF3FQHOTOPT2RV5WC861734B495740CC61F7F99B4801707E.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K9/F3YHD3AF3FQHOTOPT2RV5W.uasset'
+[2022.11.22-11.37.12:539][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3
+[2022.11.22-11.37.12:540][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YOZQFV35Q1ZI4P5OSKMAV3A5B7F2A14FA883277E1C2FBAF2380AE5.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UM/YOZQFV35Q1ZI4P5OSKMAV3.uasset'
+[2022.11.22-11.37.12:541][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW
+[2022.11.22-11.37.12:542][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YBPMKFCEYKQDOY0CW1FXRW63CB7B134399C95B0DBC5CAF0DB0059E.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RV/YBPMKFCEYKQDOY0CW1FXRW.uasset'
+[2022.11.22-11.37.12:544][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC
+[2022.11.22-11.37.12:544][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/PM19KYIPLEG8S8VA9BRZWCAE4821604757C84507B1F4B434D654BA.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/PM19KYIPLEG8S8VA9BRZWC.uasset'
+[2022.11.22-11.37.12:546][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ
+[2022.11.22-11.37.12:546][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/WWVQA97D9FEH5CBVF5E2DJD8E1DD80426F896F157FAA93A26521FE.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DO/WWVQA97D9FEH5CBVF5E2DJ.uasset'
+[2022.11.22-11.37.12:548][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9
+[2022.11.22-11.37.12:548][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/D1HSS8ASR3WDW2V9914KF9871E347C48B7FFC1997FCF81D516D3E3.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/D1HSS8ASR3WDW2V9914KF9.uasset'
+[2022.11.22-11.37.12:550][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW
+[2022.11.22-11.37.12:551][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/23GEXKDVAOLFBZ6L3HPIKW8AC09EA94EF53C21D1081A8F7D7B3869.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/22/23GEXKDVAOLFBZ6L3HPIKW.uasset'
+[2022.11.22-11.37.12:552][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP
+[2022.11.22-11.37.12:553][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/I5UBVNGFS44OA9Z1I0YKHP8281AFAC40FCBF3B65B818A337D38474.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6X/I5UBVNGFS44OA9Z1I0YKHP.uasset'
+[2022.11.22-11.37.12:555][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y
+[2022.11.22-11.37.12:555][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/2054QOV2YU873JJJZAS95Y4901830945972D30581C73BC7AD17189.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QU/2054QOV2YU873JJJZAS95Y.uasset'
+[2022.11.22-11.37.12:557][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9
+[2022.11.22-11.37.12:557][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/GJ3NUTWNAHJGU3DHXFGZX9861740BD44CB6817A175C99652ECDE5B.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KI/GJ3NUTWNAHJGU3DHXFGZX9.uasset'
+[2022.11.22-11.37.12:559][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW
+[2022.11.22-11.37.12:560][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/6CXLSEYASRT5FHWJI74JHWB7A98584432A3022E315439BF4AF6B18.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BY/6CXLSEYASRT5FHWJI74JHW.uasset'
+[2022.11.22-11.37.12:561][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW
+[2022.11.22-11.37.12:562][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ID0DNIXTAUPWX4AAK96GPW803F819C4CA9223EE741C2A1727130BF.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BI/ID0DNIXTAUPWX4AAK96GPW.uasset'
+[2022.11.22-11.37.12:563][175]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ
+[2022.11.22-11.37.12:564][175]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/YATXHVA2F06VSAF7RONTHQ9EE876AA4D62981C9FF72D8D4BB8FA34.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6A/YATXHVA2F06VSAF7RONTHQ.uasset'
+[2022.11.22-11.37.12:582][175]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062359655
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062358654
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051984653
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051983652
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051981651
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040139650
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040138649
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040137648
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033071647
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033070646
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033069645
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2009550644
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2004200643
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_1951386642
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2062360656
+[2022.11.22-11.37.12:582][175]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat
+[2022.11.22-11.37.20:565][123]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.37.20:565][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.37.34:208][710]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2022.11.22-11.37.34:208][710]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2022.11.22-11.37.34:209][710]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_0
+[2022.11.22-11.37.34:210][710]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_0
+[2022.11.22-11.37.35:564][826]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2022.11.22-11.37.35:564][826]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2022.11.22-11.37.35:567][826]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_3C7C3F2804241A4C01_1146913009
+[2022.11.22-11.37.35:568][826]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_3C7C3F2804241A4C01_1146913009
+[2022.11.22-11.38.07:765][599]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.11.22-11.38.07:771][599]LogWorldPartition: Display: GenerateStreaming took 246 us
+[2022.11.22-11.38.07:771][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.38.07:772][599]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:38:07 PM)
+[2022.11.22-11.38.07:804][599]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.38.07:811][599]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.38.07:812][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007900s)
+[2022.11.22-11.38.07:812][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007970s)
+[2022.11.22-11.38.07:812][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.38.07:813][599]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.38.07:813][599]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.38.07:813][599]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.38.07:815][599]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.38.07:815][599]LogPlayLevel: PIE: World Init took: (0.002717s)
+[2022.11.22-11.38.07:860][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.22-11.38.07:874][599]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.38.07:874][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.38.07:874][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.38.07:874][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.38.07:874][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.38.07:874][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.38.07:876][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.38.07:900][599]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.38.07:900][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.38.07:900][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.38.07:900][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.38.07:901][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2022.11.22-11.38.07:901][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2022.11.22-11.38.07:902][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2022.11.22-11.38.07:902][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2022.11.22-11.38.07:902][599]LogInit: FAudioDevice initialized.
+[2022.11.22-11.38.07:902][599]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.38.07:909][599]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.38.07:910][599]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.38.07
+[2022.11.22-11.38.07:911][599]LogWorld: Bringing up level for play took: 0.001428
+[2022.11.22-11.38.07:912][599]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2022.11.22-11.38.07:914][599]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.38.07:914][599]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.38.07:914][599]PIE: Server logged in
+[2022.11.22-11.38.07:915][599]PIE: Play in editor total start time 0.145 seconds.
+[2022.11.22-11.38.14:645][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.38.14:645][393]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.38.14:645][393]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.38.14:645][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.38.14:662][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.38.14:667][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.38.14:707][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.38.14:708][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.11.22-11.38.14:709][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.11.22-11.38.14:713][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.38.14:716][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.22-11.38.14:752][394]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.11.22-11.38.20:621][ 82]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.11.22-11.38.20:628][ 82]LogWorldPartition: Display: GenerateStreaming took 241 us
+[2022.11.22-11.38.20:628][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.38.20:628][ 82]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:38:20 PM)
+[2022.11.22-11.38.20:665][ 82]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.38.20:671][ 82]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.38.20:672][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006955s)
+[2022.11.22-11.38.20:672][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007024s)
+[2022.11.22-11.38.20:672][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.38.20:672][ 82]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.38.20:673][ 82]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.38.20:673][ 82]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.38.20:675][ 82]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.38.20:675][ 82]LogPlayLevel: PIE: World Init took: (0.002655s)
+[2022.11.22-11.38.20:717][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.22-11.38.20:721][ 82]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.38.20:721][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.38.20:721][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.38.20:721][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.38.20:721][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.38.20:721][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.38.20:723][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.38.20:747][ 82]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.38.20:748][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.38.20:748][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.38.20:748][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.38.20:749][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2022.11.22-11.38.20:749][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2022.11.22-11.38.20:750][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2022.11.22-11.38.20:750][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2022.11.22-11.38.20:750][ 82]LogInit: FAudioDevice initialized.
+[2022.11.22-11.38.20:750][ 82]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.38.20:761][ 82]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.38.20:762][ 82]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.38.20
+[2022.11.22-11.38.20:763][ 82]LogWorld: Bringing up level for play took: 0.001389
+[2022.11.22-11.38.20:764][ 82]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2022.11.22-11.38.20:766][ 82]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.38.20:766][ 82]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.38.20:766][ 82]PIE: Server logged in
+[2022.11.22-11.38.20:767][ 82]PIE: Play in editor total start time 0.139 seconds.
+[2022.11.22-11.38.33:227][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.38.33:227][561]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.38.33:228][561]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.38.33:228][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.38.33:241][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.38.33:246][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.38.33:288][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-11.38.33:288][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.11.22-11.38.33:290][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.11.22-11.38.33:294][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.38.33:297][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.22-11.38.33:329][562]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.11.22-11.38.48:984][398]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.22-11.38.49:295][428]Cmd: DELETE
+[2022.11.22-11.38.49:295][428]Cmd: ACTOR DELETE
+[2022.11.22-11.38.49:299][428]LogEditorActor: Deleted Actor: Brush
+[2022.11.22-11.38.49:341][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.22-11.38.49:352][428]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.11.22-11.38.50:533][559]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.22-11.39.06:657][425]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.11.22-11.39.30:080][128]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.22-11.40.04:046][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat_C
+[2022.11.22-11.40.04:046][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat_C
+[2022.11.22-11.40.04:048][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat as actor: BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_1
+[2022.11.22-11.40.04:049][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat as actor: BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_1
+[2022.11.22-11.40.05:545][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat_C
+[2022.11.22-11.40.05:545][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat_C
+[2022.11.22-11.40.05:549][199]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat as actor: BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F2804241A4C01_1296894010
+[2022.11.22-11.40.05:550][199]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat as actor: BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F2804241A4C01_1296894010
+[2022.11.22-11.40.44:966][802]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX
+[2022.11.22-11.40.44:968][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5
+[2022.11.22-11.40.44:968][802]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ZQMNA31QVUXSWYB46HRVR5D2A230BD4295930016B98B8A84F7FE6D.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5.uasset'
+[2022.11.22-11.40.44:972][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+[2022.11.22-11.40.44:973][802]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/A7GPT109Y6ZTTJD4A7TXER874BAB664C87C39FAA7EA2968190DD84.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2022.11.22-11.40.44:975][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47
+[2022.11.22-11.40.44:976][802]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/1ZXUXCXF1CPW1C7HOM2L47D49AC86540E871CEBBEBA7A163AC9D4F.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47.uasset'
+[2022.11.22-11.40.44:978][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX
+[2022.11.22-11.40.44:978][802]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/SPORI2GEMBLLIHP5R103BX8CC805CA45F8E54731B00FAE5F4F7E2E.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX.uasset'
+[2022.11.22-11.40.44:992][802]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O4/1ZXUXCXF1CPW1C7HOM2L47
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX
+[2022.11.22-11.40.45:044][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.22-11.40.45:074][802]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.11.22-11.40.45:075][802]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ThirdPersonMap10ECB9C44BD72406A0FE6DBE7DF15F5B.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.11.22-11.40.45:106][802]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-11.40.45:106][802]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.11.22-11.40.45:106][802]LogContentValidation: Display: Validating PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2022.11.22-11.40.45:106][802]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_1951386642
+[2022.11.22-11.40.45:106][802]LogContentValidation: Display: Validating BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_3C7C3F2804241A4C01_1146913009
+[2022.11.22-11.40.45:106][802]LogContentValidation: Display: Validating BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F2804241A4C01_1296894010
+[2022.11.22-11.40.46:064][911]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.40.46:071][911]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.40.46:071][911]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.40.46:071][911]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.40.46:071][911]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.40.46:071][911]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.40.46:071][911]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.11.22-11.40.46:072][911]LogWorldPartition: Display: GenerateStreaming took 269 us
+[2022.11.22-11.40.46:072][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.40.46:072][911]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:40:46 PM)
+[2022.11.22-11.40.46:093][911]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.40.46:102][911]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.40.46:104][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010591s)
+[2022.11.22-11.40.46:104][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010659s)
+[2022.11.22-11.40.46:104][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.40.46:104][911]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.40.46:104][911]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.40.46:105][911]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.40.46:107][911]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.11.22-11.40.46:107][911]LogPlayLevel: PIE: World Init took: (0.003716s)
+[2022.11.22-11.40.46:149][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.22-11.40.46:150][911]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.11.22-11.40.46:150][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.40.46:151][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.40.46:151][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.40.46:151][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.40.46:151][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.40.46:151][911]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.40.46:151][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.40.46:151][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.40.46:151][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.40.46:151][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.40.46:151][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.40.46:153][911]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.40.46:177][911]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.40.46:178][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.40.46:178][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.40.46:178][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.40.46:178][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2022.11.22-11.40.46:178][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2022.11.22-11.40.46:179][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2022.11.22-11.40.46:179][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2022.11.22-11.40.46:179][911]LogInit: FAudioDevice initialized.
+[2022.11.22-11.40.46:179][911]LogAudio: Display: Audio Device (ID: 43) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.40.46:193][911]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.40.46:195][911]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.40.46
+[2022.11.22-11.40.46:195][911]LogWorld: Bringing up level for play took: 0.001582
+[2022.11.22-11.40.46:196][911]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2022.11.22-11.40.46:198][911]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.40.46:198][911]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.40.46:199][911]PIE: Server logged in
+[2022.11.22-11.40.46:199][911]PIE: Play in editor total start time 0.129 seconds.
+[2022.11.22-11.41.07:736][487]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641] YOU SHOULD HURRY!
+[2022.11.22-11.41.18:387][765]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F2804241A4C01_1296894010] YOU SHOULD HURRY!
+[2022.11.22-11.41.18:847][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.41.18:847][815]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.41.18:847][815]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.41.18:848][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.41.18:862][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.41.18:868][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.41.18:909][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.41.18:909][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.11.22-11.41.18:911][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.11.22-11.41.18:918][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.22-11.41.18:953][816]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.11.22-11.41.35:580][776]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.41.35:639][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.22-11.41.38:109][ 59]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2022.11.22-11.41.38:116][ 59]LogWorldPartition: Display: GenerateStreaming took 314 us
+[2022.11.22-11.41.38:116][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.41.38:116][ 59]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:41:38 PM)
+[2022.11.22-11.41.38:150][ 59]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.41.38:158][ 59]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.41.38:160][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009990s)
+[2022.11.22-11.41.38:160][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010060s)
+[2022.11.22-11.41.38:160][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.41.38:160][ 59]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.41.38:160][ 59]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.41.38:160][ 59]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.41.38:163][ 59]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.11.22-11.41.38:163][ 59]LogPlayLevel: PIE: World Init took: (0.003198s)
+[2022.11.22-11.41.38:202][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.22-11.41.38:206][ 59]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.41.38:206][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.41.38:206][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.41.38:206][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.41.38:206][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.41.38:206][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.41.38:208][ 59]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.41.38:232][ 59]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.41.38:232][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.41.38:232][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.41.38:232][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.41.38:233][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2022.11.22-11.41.38:233][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2022.11.22-11.41.38:234][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2022.11.22-11.41.38:234][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2022.11.22-11.41.38:234][ 59]LogInit: FAudioDevice initialized.
+[2022.11.22-11.41.38:234][ 59]LogAudio: Display: Audio Device (ID: 44) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.41.38:244][ 59]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.41.38:246][ 59]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.41.38
+[2022.11.22-11.41.38:246][ 59]LogWorld: Bringing up level for play took: 0.001598
+[2022.11.22-11.41.38:247][ 59]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.11.22-11.41.38:249][ 59]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=610.000 Y=490.000 Z=174.150
+[2022.11.22-11.41.38:249][ 59]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.41.38:250][ 59]PIE: Server logged in
+[2022.11.22-11.41.38:251][ 59]PIE: Play in editor total start time 0.137 seconds.
+[2022.11.22-11.41.46:647][ 59]LogBlueprintUserMessages: [BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641] YOU SHOULD HURRY!
+[2022.11.22-11.41.53:473][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.41.53:473][874]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.41.53:473][874]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.41.53:473][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.41.53:489][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.41.53:494][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.41.53:535][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.41.53:536][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.11.22-11.41.53:537][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.11.22-11.41.53:545][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.22-11.41.53:580][875]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.11.22-11.41.54:993][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.22-11.41.59:770][579]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.22-11.42.00:609][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.22-11.42.40:639][160]BlueprintLog: New page: Compile BP_MovingPlatform
+[2022.11.22-11.42.40:700][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.22-11.43.07:060][196]BlueprintLog: New page: Compile BP_MovingPlatform
+[2022.11.22-11.43.07:120][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.22-11.43.20:530][743]BlueprintLog: New page: Compile BP_DisappearingPlat
+[2022.11.22-11.43.20:590][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.22-11.43.21:574][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DisappearingPlat" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_DisappearingPlat.uasset" SILENT=true
+[2022.11.22-11.43.21:579][847]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DisappearingPlat
+[2022.11.22-11.43.21:579][847]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_DisappearingPlat9E428A84429EE0B4C7CD079973828449.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/BP_DisappearingPlat.uasset'
+[2022.11.22-11.43.21:590][847]AssetCheck: New page: Asset Save: BP_DisappearingPlat
+[2022.11.22-11.43.21:591][847]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat
+[2022.11.22-11.43.35:469][456]BlueprintLog: New page: Compile BP_FallingBall
+[2022.11.22-11.43.35:527][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.43.58:027][996]LogViewport: Scene viewport resized to 811x816, mode Windowed.
+[2022.11.22-11.43.58:069][996]LogViewport: Scene viewport resized to 830x816, mode Windowed.
+[2022.11.22-11.43.58:111][996]LogViewport: Scene viewport resized to 870x816, mode Windowed.
+[2022.11.22-11.43.58:161][996]LogViewport: Scene viewport resized to 924x816, mode Windowed.
+[2022.11.22-11.43.58:211][996]LogViewport: Scene viewport resized to 951x816, mode Windowed.
+[2022.11.22-11.43.58:253][996]LogViewport: Scene viewport resized to 952x816, mode Windowed.
+[2022.11.22-11.43.58:457][996]LogViewport: Scene viewport resized to 953x816, mode Windowed.
+[2022.11.22-11.43.58:498][996]LogViewport: Scene viewport resized to 954x816, mode Windowed.
+[2022.11.22-11.43.58:573][996]LogViewport: Scene viewport resized to 955x816, mode Windowed.
+[2022.11.22-11.43.58:615][996]LogViewport: Scene viewport resized to 959x816, mode Windowed.
+[2022.11.22-11.43.58:648][996]LogViewport: Scene viewport resized to 960x816, mode Windowed.
+[2022.11.22-11.43.59:523][ 76]LogViewport: Scene viewport resized to 1635x820, mode Windowed.
+[2022.11.22-11.44.39:562][389]Cmd: POLY SELECT MEMORY RECALL
+[2022.11.22-11.45.02:902][ 14]Cmd: EDCALLBACK SURFPROPS
+[2022.11.22-11.46.42:917][845]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LF/QONWFDY62AHAXSO41Z1768
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX
+[2022.11.22-11.46.42:919][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5
+[2022.11.22-11.46.42:920][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ZQMNA31QVUXSWYB46HRVR54FEB698A453A4BFE1AF5189989A06C06.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5.uasset'
+[2022.11.22-11.46.42:923][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LF/QONWFDY62AHAXSO41Z1768
+[2022.11.22-11.46.42:923][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/QONWFDY62AHAXSO41Z17681FD9BD054FC6CD7AB2C92982C90EDC9B.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LF/QONWFDY62AHAXSO41Z1768.uasset'
+[2022.11.22-11.46.42:926][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+[2022.11.22-11.46.42:926][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/A7GPT109Y6ZTTJD4A7TXER854B164E4E4E38C9073F0890C8EDFFD7.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2022.11.22-11.46.42:928][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE
+[2022.11.22-11.46.42:929][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/VPJ91GAFLAZ5SR3EVJ92GEDF5F63C74F85AAB35BD4F5BC09D4D56F.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE.uasset'
+[2022.11.22-11.46.42:931][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ
+[2022.11.22-11.46.42:932][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/V7M2PQ2O7DSERQO3JQ7KEZ5242F8D944DC4A6DF9DF84A0B38463EF.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ.uasset'
+[2022.11.22-11.46.42:934][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX
+[2022.11.22-11.46.42:934][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/SPORI2GEMBLLIHP5R103BX65CB60B7403A7D1F1C7D76B9E9FC7569.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX.uasset'
+[2022.11.22-11.46.42:935][845]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/ZQMNA31QVUXSWYB46HRVR5
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LF/QONWFDY62AHAXSO41Z1768
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F9/VPJ91GAFLAZ5SR3EVJ92GE
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CU/V7M2PQ2O7DSERQO3JQ7KEZ
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/SPORI2GEMBLLIHP5R103BX
+[2022.11.22-11.46.42:984][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.22-11.46.43:010][845]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.11.22-11.46.43:011][845]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/ThirdPersonMapE5FDC7684B082336EC11A4A3499829E6.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.11.22-11.46.43:035][845]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating BP_FallingBall_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FallingBall_C_UAID_3C7C3F280424134C01_1504634760
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_3C7C3F2804241A4C01_1146913009
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_3C7C3F280424124C01_1613430583
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F2804241A4C01_1296894010
+[2022.11.22-11.46.43:035][845]LogContentValidation: Display: Validating BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641
+[2022.11.22-11.56.43:276][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.22-11.56.43:279][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.048
+[2022.11.22-11.56.43:279][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_FallingBall] ([2] browsable assets)...
+[2022.11.22-11.56.43:306][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FallingBall.BP_FallingBall]
+[2022.11.22-11.56.43:307][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FallingBall]
+[2022.11.22-11.56.43:311][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FallingBall_Auto4
+[2022.11.22-11.56.43:312][330]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_FallingBall_Auto4A9D90F28456F9E796F47D0AE27EEE850.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/BP_FallingBall_Auto4.uasset'
+[2022.11.22-11.56.43:313][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MovingPlatform] ([2] browsable assets)...
+[2022.11.22-11.56.43:320][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform]
+[2022.11.22-11.56.43:320][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MovingPlatform]
+[2022.11.22-11.56.43:324][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_MovingPlatform_Auto4
+[2022.11.22-11.56.43:324][330]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/BP_MovingPlatform_Auto4BCD4F2304780D65EA112CF999D9C4493.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/BP_MovingPlatform_Auto4.uasset'
+[2022.11.22-11.56.43:325][330]LogFileHelpers: Auto-saving content packages took 0.046
