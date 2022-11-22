@@ -2983,3 +2983,79 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.22-11.13.21:238][184]LogContentValidation: Display: Validating BP_DisappearingPlat_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DisappearingPlat_C_UAID_3C7C3F280424184C01_1585810641
 [2022.11.22-11.13.21:238][184]LogContentValidation: Display: Validating Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Floor_C_UAID_3C7C3F280424174C01_1304063463
 [2022.11.22-11.13.21:238][184]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DisappearingPlat.BP_DisappearingPlat
+[2022.11.22-11.13.47:562][410]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.22-11.13.47:568][410]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.22-11.13.47:568][410]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.22-11.13.47:568][410]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.13.47:568][410]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.22-11.13.47:568][410]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.22-11.13.47:568][410]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.11.22-11.13.47:569][410]LogWorldPartition: Display: GenerateStreaming took 212 us
+[2022.11.22-11.13.47:570][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-11.13.47:570][410]PIE: New page: PIE session: ThirdPersonMap (Nov 22, 2022, 3:13:47 PM)
+[2022.11.22-11.13.47:570][410]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.13.47:576][410]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.22-11.13.47:577][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006632s)
+[2022.11.22-11.13.47:577][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006687s)
+[2022.11.22-11.13.47:577][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-11.13.47:577][410]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.22-11.13.47:578][410]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.22-11.13.47:578][410]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.22-11.13.47:579][410]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.22-11.13.47:579][410]LogPlayLevel: PIE: World Init took: (0.002402s)
+[2022.11.22-11.13.47:621][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.22-11.13.47:623][410]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-11.13.47:623][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-11.13.47:623][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-11.13.47:623][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-11.13.47:623][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-11.13.47:623][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-11.13.47:625][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-11.13.47:649][410]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7 Game)
+[2022.11.22-11.13.47:650][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-11.13.47:650][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-11.13.47:650][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-11.13.47:651][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.11.22-11.13.47:651][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.11.22-11.13.47:651][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.11.22-11.13.47:652][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.11.22-11.13.47:652][410]LogInit: FAudioDevice initialized.
+[2022.11.22-11.13.47:652][410]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2022.11.22-11.13.47:664][410]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.22-11.13.47:665][410]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.11.22-13.13.47
+[2022.11.22-11.13.47:665][410]LogWorld: Bringing up level for play took: 0.001080
+[2022.11.22-11.13.47:666][410]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.11.22-11.13.47:668][410]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=290.000 Y=1110.000 Z=162.150
+[2022.11.22-11.13.47:668][410]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.22-11.13.47:669][410]PIE: Server logged in
+[2022.11.22-11.13.47:670][410]PIE: Play in editor total start time 0.102 seconds.
+[2022.11.22-11.14.02:118][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.14.02:118][125]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.11.22-11.14.02:118][125]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-11.14.02:119][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.14.02:136][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-11.14.02:142][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-11.14.02:182][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-11.14.02:182][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.11.22-11.14.02:184][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.11.22-11.14.02:191][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.22-11.14.02:228][126]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.11.22-11.14.16:287][657]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.22-11.14.16:292][657]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.22-11.14.16:297][657]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.22-11.14.16:305][658]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.22-11.14.18:817][958]LogContentBrowser: Attempting asset rename: NewBlueprint -> Spikes
+[2022.11.22-11.14.18:821][958]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.22-11.14.21:118][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.22-11.14.21:964][217]LogSlate: Window 'Save Content' being destroyed
+[2022.11.22-11.14.21:985][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spikes" FILE="C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset" SILENT=true
+[2022.11.22-11.14.21:987][217]LogSavePackage: Moving output files for package: /Game/Blueprints/Spikes
+[2022.11.22-11.14.21:987][217]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes3FE1EE604514BF87E48BA8998C698FF0.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Content/Blueprints/Spikes.uasset'
+[2022.11.22-11.14.21:998][217]AssetCheck: New page: Asset Save: Spikes
+[2022.11.22-11.14.21:998][217]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
