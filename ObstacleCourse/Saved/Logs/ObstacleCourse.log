@@ -2422,3 +2422,16 @@ Script Stack (0 frames):
 [2022.11.22-15.57.26:163][855]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2040137648
 [2022.11.22-15.57.26:163][855]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2051983652
 [2022.11.22-15.57.26:163][855]LogContentValidation: Display: Validating Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spikes_C_UAID_3C7C3F280424184C01_2033070646
+[2022.11.22-16.03.31:439][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.22-16.03.31:443][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2022.11.22-16.03.31:444][ 19]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Floor] ([2] browsable assets)...
+[2022.11.22-16.03.31:474][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Floor.Floor]
+[2022.11.22-16.03.31:474][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Floor]
+[2022.11.22-16.03.31:480][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Floor_Auto2
+[2022.11.22-16.03.31:480][ 19]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Floor_Auto21B2E2F8C45F6478FFC787ABC9768D260.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/Floor_Auto2.uasset'
+[2022.11.22-16.03.31:482][ 19]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Spikes] ([2] browsable assets)...
+[2022.11.22-16.03.31:491][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Spikes.Spikes]
+[2022.11.22-16.03.31:491][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spikes]
+[2022.11.22-16.03.31:499][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spikes_Auto2
+[2022.11.22-16.03.31:499][ 19]LogSavePackage: Moving 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Spikes_Auto2DF1C8A81404356011174D5A4592D972C.tmp' to 'C:/Users/eladm/Documents/GitHub/ObstacleCourse-Shenkar/ObstacleCourse/Saved/Autosaves/Game/Blueprints/Spikes_Auto2.uasset'
+[2022.11.22-16.03.31:500][ 19]LogFileHelpers: Auto-saving content packages took 0.056
